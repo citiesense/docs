@@ -1,10 +1,10 @@
-##What are "projects"?
+## What are "projects"?
 "__Projects__" are real estate related initiatives that are related to one or more properties, also known as parcels. 
 
-##What is a Project Page?
+## What is a Project Page?
 Citiesense enables users to create "[project pages](http://www.citiesense.com/projects/3772)" with data-rich property maps that showcase real estate projects. __Project Pages__ can be used for either __marketing__ or for __research__. 
 
-###For Marketing
+### For Marketing
 There are 3 types of project pages that users can create and add to the public city data maps for marketing:
 * __Available:__ available listings (for sale and for lease commercial real estate listings)
 * __In Progress:__ development projects in progress (approved development projects moving forward with construction)
