@@ -1,4 +1,4 @@
-What is a “project”?
+What is a "project"?
 A "project" is a real estate related initiative that is related to one or more properties, also known as parcels. Citiesense enables users to create "project pages" with data-rich property maps that showcase real estate projects. Project pages can be used for either marketing or for research. 
 
 There are 3 types of project pages that users can create and add to the public city data maps for marketing:
