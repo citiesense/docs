@@ -1,4 +1,4 @@
-##What are "project"?
+##What are "projects"?
 "__projects__" are real estate related initiatives that are related to one or more properties, also known as parcels. 
 
 ##What is a Project Page?
