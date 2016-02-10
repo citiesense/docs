@@ -11,4 +11,5 @@ There are 3 types of project pages that users can create and add to the public c
 * __Completed:__ recently completed development projects (development projects completed within the past 5 years) 
 
 ### __For Research__
-A user can create a private page for a "pipeline project" and share this page with a group of teammates or collaborators. __Pipeline Project Pages__ can be made public for marketing when the project is approved and in progress of being completed.  
+A user can create a private page for a "pipeline project" and share this page with a group of teammates or collaborators. 
+* __Pipeline Project Pages__ can be made public for marketing when the project is approved and in progress of being completed.  
