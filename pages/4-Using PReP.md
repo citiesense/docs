@@ -5,7 +5,7 @@ Citiesense consolidates the real property research process into a single, sharab
 In order to simplify the property research process across all cities, each city on Citiesense has the same interface for its Property Research Portal. 
 The features of this interface include:
 * Data Filters:
-![alt text](https://flic.kr/p/DxZvKL "Filters button"),
+![alt text](https://www.flickr.com/photos/12677109@N04/24647233270/in/dateposted-public/ "Filters button"),
 * Data Layers,
 * Basemap toggles, and
 * the capability of adding a Project to the PReP map. 
