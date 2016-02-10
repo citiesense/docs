@@ -5,6 +5,6 @@ Each municipality with an account on Citiesense has its own version of the inter
 
 Anyone that visits Citiesense can use a city's map to research real estate in that municipality. 
 
-This interactive map of a city is called the __Property Research Portal (PReP)__.
+This interactive map of a city is called the [Property Research Portal (PReP)](http://www.citiesense.com/docs/pages/4-Using%20PReP.md).
 
 
