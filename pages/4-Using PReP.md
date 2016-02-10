@@ -14,7 +14,7 @@ The features of this interface include:
 Each City featured on Citiesense has its own version of a PReP. Some Property Research Portals are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of data pertaining to urban real estate. 
 
 ### PReP Data Categories
-#### You will find interactive map layers of data organized under the following categories when you click on the (![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers")) icon.
+#### When you click on the (![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers")) icon you will find interactive map layers of data organized under the following categories:
 
 ![alt text](http://d9hhrg4mnvzow.cloudfront.net/try.citiesense.com/real-estate-maps/102e6d18-property-details-icon_02r02q02r02q000000.png "Properties")
 
