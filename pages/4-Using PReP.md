@@ -1,6 +1,8 @@
 ## Using the Property Research Portal (PReP)
 Citiesense consolidates the real property research process into a single, sharable map. A city-wide version of this map is called the __Property Research Portal__, or __PReP__ for short. This is designed to save the real estate industry time and alleviate the frustration of needing to go between several different websites in order to research properties and underwrite real estate opportunities. 
 
+![alt text](https://farm2.staticflickr.com/1518/24333409623_6a1f5f8e8d_b.jpg "PReP features")
+
 ### PReP Features
 In order to simplify the property research process across all cities, each city on Citiesense has the same interface for its Property Research Portal. 
 The features of this interface include:
