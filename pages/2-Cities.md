@@ -5,6 +5,5 @@ Each municipality with an account on Citiesense has its own version of the inter
 
 Anyone that visits Citiesense can use a city's map to research real estate in that municipality. 
 
-The interactive map of a city is called the __City Page__.
-
+The interactive map of a city is called the [City Page](https://github.com/citiesense/docs/blob/master/pages/4-Using%20City%20Pages.md).
 
