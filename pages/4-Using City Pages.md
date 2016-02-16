@@ -1,10 +1,10 @@
-## Using the Property Research Portal (PReP)
-Citiesense consolidates the real property research process into a single, sharable map. A city-wide version of this map is called the __Property Research Portal__, or __PReP__ for short. This is designed to save the real estate industry time and alleviate the frustration of needing to go between several different websites in order to research properties and underwrite real estate opportunities. 
+## Using City Pages
+Citiesense consolidates the real property research process into a single, sharable map. A city-wide version of this map is called a __City Page__. Each city with an account on Citiesense has a publicly accessible City Page. City Pages are designed to save the real estate industry time and alleviate the frustration of needing to go between several different websites in order to research properties and underwrite real estate opportunities. 
 
 ![alt text](https://farm2.staticflickr.com/1518/24333409623_6a1f5f8e8d_b.jpg "PReP features")
 
-### PReP Features
-In order to simplify the property research process across all cities, each city on Citiesense has the same interface for its Property Research Portal. 
+### Features of a City Page
+In order to simplify the Process of finding and understanding real estate data across a number of cities, each city on Citiesense has the same interface for its City Page. 
 The features of this interface include:
 * Data filters: ![alt text](https://farm2.staticflickr.com/1532/24312981384_2ff912b930_s.jpg "filters"),
 * Data layers: ![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers"),
@@ -13,9 +13,9 @@ The features of this interface include:
 * Locate yourself in a city: ![alt text](https://farm2.staticflickr.com/1699/24917424116_ab5b1c3f7b_s.jpg "locate me"), and
 * the capability of adding a Project to the PReP map. 
 
-Each City featured on Citiesense has its own version of a PReP. Some Property Research Portals are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of data pertaining to urban real estate. 
+Each City featured on Citiesense has its own version of a City Page. Some City Pages are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of data pertaining to urban real estate. 
 
-### PReP Data Categories
+### City Data Categories
 #### When you click on the (![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers")) icon you will find interactive map layers of data organized under the following categories:
 
 ![alt text](http://d9hhrg4mnvzow.cloudfront.net/try.citiesense.com/real-estate-maps/102e6d18-property-details-icon_02r02q02r02q000000.png "Properties")
