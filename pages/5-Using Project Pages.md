@@ -1,8 +1,10 @@
 ## Using Project Pages
 
-When a __Project Page__ is published to a __City Page__, it can be used for __public engagement__, __media__ and __real estate marketing__. 
+Project Pages can be made public or private.
 
-When a __Project Page__ is private, it can be used for planning and research for real estate related tasks, such as investment analysis and due diligence, property assemblage, optimal land use studies, masterplans, and many other tasks. 
+When a Project Page is _published_ to a __City Page__, it can be used for __public engagement__, __media__ and __real estate marketing__. 
+
+When a Project Page is _private_, it can be used for planning and research for real estate related tasks, such as investment analysis and due diligence, property assemblage, optimal land use studies, masterplans, and many other tasks. 
 
 ### __Published Project Pages__
 There are 3 types of project pages that users can create and add to the public city data maps for marketing:
