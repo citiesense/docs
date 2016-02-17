@@ -1,4 +1,4 @@
-## What are _Projects_?
+## What are __Projects__?
 __Projects__ are real estate related initiatives that are directly associated with one or more properties, also known as parcels. 
 
 Projects are representd by color dots on a City Page map. 
