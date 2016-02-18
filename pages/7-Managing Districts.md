@@ -1,6 +1,6 @@
 ### Citiesense currently offers two types of Enterprise Accounts:
 
-### 1. Municipal Enterprise Accounts
+### [1. Municipal Enterprise Accounts](http://www.citiesense.com/docs/pages/6-Managing%20Cities.md)
 
 ### 2. Business Improvement District Enterprise Accounts
 
