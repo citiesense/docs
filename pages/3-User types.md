@@ -9,19 +9,19 @@ _(Municipalities, Business Districts, Home Owners Associations, Firms)_
 
 __Who is a City Manager?__
 
-_City Managers are users that are part of a municipalities enterprise account on Citiesense._
+_City Managers are users that are part of an enterprise account maintained by a municipality on Citiesense._
 
 __How do I embed the map of my city on a website or blog?__
 
 _On every embeddable Citiesense map, there is a button in the upper right hand corner that says “Embed”. To embed this map, click the Embed button, then the “Copy” button to copy the embed code and paste this code into your website or blog_ 
 
-__Who can use a municipality’s account?__
+__Who can use an enterprise account for a municipality?__
 
-_A municipality with an enterprise account on Citiesense may invite an unlimited number of users to share access to the city’s enterprise account, as City Managers.  Only users that are affiliated with this enterprise account, either because they were invited or because the account was set up for them initially, can use the municipality’s account._ 
+_A municipality with an enterprise account on Citiesense may invite an unlimited number of users to share access to their enterprise account, as City Managers.  Only users that are affiliated with this enterprise account, either because they were invited or because the account was set up for them initially, can use the municipality’s account._ 
 
-__Who can see the municipality’s dashboard?__
+__Who can see the enterprise account dashboards for a municipality?__
 
-_Only City Managers can see the municipality’s dashboard._
+_Only City Managers can see the dashboards managed as part of an enterprise account for a municipality._
 
 __How do I add a project to the map?__
 
@@ -46,17 +46,17 @@ __How do I embed the map of my district on a website or blog?__
 
 _On every embeddable Citiesense map, there is a button in the upper right hand corner that says “Embed”. To embed this map, click the Embed button, then the “Copy” button to copy the embed code and paste this code into your website or blog_
 
-__Who can use a district’s account?__
+__Who can use an enterprise account for a district?__
 
 _A district within a municipality that has an account on Citiesense may invite an unlimited number of users to share access to the district’s enterprise account, as District Managers.  Only users that are affiliated with this enterprise account, either because they were invited or because the account was set up for them initially, can use the district’s account_ 
 
-__Who can see the district’s dashboard?__
+__Who can see the enterprise account dashboards for districts?__
 
 _Only District Managers can see the district’s dashboard_
 
 __How do I add a project to the map?__
 
-_Start by either searching for an address in a city on Citiesense (provide the address search feature here like it is on the homepage maybe) or by browsing properties on a city’s main map (link to the “Cities” selection page)_ 
+_Start by either searching for an address in a city on Citiesense (provide the address search feature here like it is on the homepage maybe) or by browsing properties on a main city map page. [Select a city](http://www.citiesense.com/cities)!_ 
 
 __Can I change a project that I did not create / do not own?__
 
