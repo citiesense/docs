@@ -99,7 +99,8 @@ How do I create a map that includes all the properties or a selection of propert
 
 _Economic development specialists can select the study area or subject properties that are associated with an optimal use study, strategic development plan or other such study and create a map to share with collaborators, clients or with a public audience for community engagement._ 
 
-__Media companies and real estate journalists__ 
+__Media companies and real estate journalists__
+
 How do I create a map that includes properties that I want to write about or mention in the content of my publication? 
 
 _Media companies and journalists can create a simple map of one property or an assortment of properties that relate to content in a publication and embed the map_
