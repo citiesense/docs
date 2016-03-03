@@ -1,6 +1,9 @@
 ## Who is Citiesense for?
+
+
 ### Organizations 
 _(Municipalities, Business Districts, Home Owners Associations, Firms)_
+
 
 #### __User Type: City Manager__
 
@@ -31,6 +34,7 @@ _If you are a City Manager or a District Manager and a project is publicly displ
 __Can other users change a project that I own?__
 
 _If another user is a City Manager or a District Manager and your project is publicly displayed on a City or District map that the other user manages, then that user is able to edit your project._
+
 
 #### __User Type: District Manager__
 
@@ -64,27 +68,33 @@ _If another user is a City Manager or a District Manager and your project is pub
 
 
 
+
 ### Individuals 
 _(Commercial Real estate brokers and agents, real estate developers and investors, architects, urban designers and city planning consultants, economic development specialists, real estate journalists)_
+
 
 #### __User Type: Project Owner__
 
 __Commercial Real estate brokers and agents__
+
 How do I add a listing for lease or for sale to a city’s map?
 
 _Real estate brokers and agents can create a Project Page for available listings by choosing “Commercial Real Estate Listing” on the Project Type selection popup and following the prompts._
 
 __Developers and investors__ 	
+
 How do I create a private page that I can share with the rest of my associates as an investment opportunity?
 
 _Real estate developers and investors at all levels of experience can use Citiesense to create private Project Pages for investment opportunities. Simply select “Investment/Development Opportunity” when prompted to choose a type of Project._
 
 __Architects, urban designers and city planning consultants__ 
+
 How do I create a map that includes all the properties or a selection of properties in an area that my colleagues and I are analyzing for a client? 
 
 _Design and planning consultants can select the study area or subject properties that they are interested in analyzing and create a map to share with collaborators, clients or with a public audience for community engagement_
 
 __Economic development specialists__ 
+
 How do I create a map that includes all the properties or a selection of properties in an area that my colleagues and I are analyzing for a client? 
 
 _Economic development specialists can select the study area or subject properties that are associated with an optimal use study, strategic development plan or other such study and create a map to share with collaborators, clients or with a public audience for community engagement._ 
