@@ -1,6 +1,8 @@
 ## Who is Citiesense for?
-### Organizations
-#### Municipalities // User Type: City Manager
+### Organizations 
+_(Municipalities, Business Districts, Home Owners Associations, Firms)_
+
+#### User Type: City Manager
 
 __Who is a City Manager?__
 
@@ -30,7 +32,7 @@ __Can other users change a project that I own?__
 
 _If another user is a City Manager or a District Manager and your project is publicly displayed on a City or District map that the other user manages, then that user is able to edit your project._
 
-#### Business Improvement Districts // User Type: District Manager
+#### User Type: District Manager
 
 __Who is a District Manager?__
 
@@ -60,8 +62,6 @@ __Can other users change a project that I own?__
 
 _If another user is a City Manager or a District Manager and your project is publicly displayed on a City or District map that the other user manages, then that user is able to edit your project_
 
-#### Home Owners Associations _(coming soon)_ __User Type: District Manager__
-#### Private firms _(coming soon)_ __User Type: District Manager__
 
 
 ### Individuals __User Type: Project Owner__
