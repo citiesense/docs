@@ -25,7 +25,7 @@ _Only City Managers can see the dashboards managed as part of an enterprise acco
 
 __How do I add a project to the map?__
 
-_Start by either searching for an address in a city on Citiesense (provide the address search feature here like it is on the homepage maybe) or by browsing properties on a city’s main map (link to the “Cities” selection page)_ 
+_Start by either searching for an address in a city on Citiesense (provide the address search feature here like it is on the homepage maybe) or by browsing properties on a_ [city’s main map page](http://www.citiesense.com/cities) 
 
 __Can I change a project that I did not create / do not own?__
 
