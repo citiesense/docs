@@ -1,7 +1,6 @@
 ## Who is Citiesense for?
 ### Organizations
-#### Municipalities 
-##### User Type: City Manager
+#### Municipalities // User Type: City Manager
 
 __•	Who is a City Manager?__
 
@@ -29,8 +28,7 @@ _If you are a City Manager or a District Manager and a project is publicly displ
 •	Can other users change a project that I own?
 
 _If another user is a City Manager or a District Manager and your project is publicly displayed on a City or District map that the other user manages, then that user is able to edit your project._
-#### Business Improvement Districts
-##### User Type: District Manager
+#### Business Improvement Districts // User Type: District Manager
 
 __•	Who is a District Manager?__
 _District Managers are users that are part of an enterprise account for a district organization such as a Business Improvement District (BID), Business Improvement Area (BIA), or Special Services District (SSD)_
@@ -53,12 +51,12 @@ _If you are a City Manager or a District Manager and a project is publicly displ
 •	Can other users change a project that I own?
 
 _If another user is a City Manager or a District Manager and your project is publicly displayed on a City or District map that the other user manages, then that user is able to edit your project_
-#### Home Owners Associations (coming soon)
-#### Private firms (coming soon)
+#### Home Owners Associations (coming soon) // User Type: District Manager
+#### Private firms (coming soon) // User Type: District Manager
 
 
-### Individuals 
-__User Type: Project Owner__
+### Individuals // User Type: Project Owner
+
 #### Commercial Real estate brokers and agents 
 •	How do I add a listing for lease or for sale to a city’s map?
 
