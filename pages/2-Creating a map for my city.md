@@ -5,6 +5,6 @@ Each municipality with an account on Citiesense has its own version of the inter
 
 Anyone that visits Citiesense can use a City's map to explore real estate data directly related to that municipality. 
 
-## Where does the map’s data come from?
+## Where does the data come from?
 Almost all of the data on Citiesense maps is from public sources. Additionally, some of the data is created and maintained by Citiesense users. User-created data is exclusive to a user-created project page, which can be seen as orange, blue, and green dots on the map. Anyone with a Citiesense account can be a Project Owner and manage data on their own individual pages that feature Citiesense maps.
 
