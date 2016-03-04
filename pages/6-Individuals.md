@@ -13,7 +13,9 @@ Individual accounts are designed to help the following professionals with their 
 
 5) Real estate journalists
 
-### [Project Owners](http://www.citiesense.com/docs/pages/8-Project%20Owners.md)
+### User Types
+
+#### [Project Owners](http://www.citiesense.com/docs/pages/8-Project%20Owners.md)
 
 _Any user with an account on Citiesense is a Project Owner._
 
