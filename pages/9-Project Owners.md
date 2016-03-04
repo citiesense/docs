@@ -1,8 +1,9 @@
 ## Project Owners
+Anyone with an account on Citiesense can be a Project Owner. Project Owners can create their own pages with custom versions of a City Map. These pages, called Project Pages are designed to help the following professionals with their mapping related workflows:
 
 ### __Commercial Real estate brokers and agents__
 
-How do I add a listing for lease or for sale to a city’s map?
+How do I create a Project Page to list a commercial property either for lease or for sale and publish this to a City Map?
 
 _Real estate brokers and agents can create a Project Page for available listings by choosing “Commercial Real Estate Listing” on the Project Type selection popup and following the prompts._
 
