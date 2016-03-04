@@ -1,9 +1,9 @@
-## Using City Pages
-Citiesense consolidates the real property research process into a single, sharable map. A city-wide version of this map is called a __City Page__. Each city with an account on Citiesense has a publicly accessible City Page. City Pages are designed to save the real estate industry time and alleviate the frustration of needing to go between several different websites in order to collect and understand real estate data. 
+## Using a City Map
+Citiesense consolidates the real property research process into a single, sharable map. A city-wide version of this map is called a __City Map__. Each city with an account on Citiesense has a publicly accessible City Page. City Maps are designed to save the real estate industry time and alleviate the frustration of needing to go between several different websites in order to collect and understand real estate data. 
 
 ![alt text](https://farm2.staticflickr.com/1518/24333409623_6a1f5f8e8d_b.jpg "PReP features")
 
-### Features of a City Page
+### Features of a City Map
 In order to simplify the process of aggregating and understanding real estate data across a number of cities, each city on Citiesense has the same interface for its City Page. 
 The features of this interface include:
 * Data filters: ![alt text](https://farm2.staticflickr.com/1532/24312981384_2ff912b930_s.jpg "filters"),
@@ -13,7 +13,7 @@ The features of this interface include:
 * Locate yourself in a city: ![alt text](https://farm2.staticflickr.com/1699/24917424116_ab5b1c3f7b_s.jpg "locate me"), and
 * the capability of adding a Project to the PReP map. 
 
-Each city featured on Citiesense has its own version of a City Page. Some City Pages are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of data pertaining to urban real estate. 
+Each city featured on Citiesense has its own version of a City Map. Some City Maps are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of information pertaining to individual properties, land use, market activity and demographics. 
 
 ### City Data Categories
 #### When you click on the (![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers")) icon you will find interactive map layers of data organized under the following categories:
