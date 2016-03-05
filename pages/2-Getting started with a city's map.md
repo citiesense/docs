@@ -11,7 +11,7 @@ The features of this interface include:
 * Basemap toggles: ![alt text](https://farm2.staticflickr.com/1720/24850246761_ba838917b8_s.jpg "basemaps")
 * Save/load filter presets: ![alt text](https://farm2.staticflickr.com/1720/24943561765_b0410f0774_s.jpg "save a filter preset"),
 * Locate yourself in a city: ![alt text](https://farm2.staticflickr.com/1699/24917424116_ab5b1c3f7b_s.jpg "locate me"), and
-* the capability of adding a Project to the PReP map. 
+* the capability of publishing a Project to a City Map. 
 
 Each city featured on Citiesense has its own version of a City Map. Some City Maps are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of information pertaining to individual properties, land use, market activity and demographics. 
 
