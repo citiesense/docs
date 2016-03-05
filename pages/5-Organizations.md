@@ -1,5 +1,5 @@
 ## Organizations
-Citiesense has enterprise accounts available for organizations that wish to use our data-rich map to help facilitate economic development for a city or a select neighborhood or district within a city. 
+Citiesense has enterprise accounts available for organizations that wish to use our data-rich maps to help facilitate economic development for a city or a select neighborhood or district within a city. 
 
 There are two User Types for enterprise accounts: City Managers and District Managers. 
 
