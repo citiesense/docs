@@ -4,10 +4,10 @@ Citiesense has enterprise accounts available for organizations that wish to use 
 There are two User Types for enterprise accounts: City Managers and District Managers. 
 
 ### __User Types__
-#### [City Managers](http://www.citiesense.com/docs/pages/6-City%20Managers.md)
+#### [City Managers](http://www.citiesense.com/docs/pages/7-City%20Managers.md)
 
 _City Managers are users that are part of an enterprise account maintained by a municipality on Citiesense._
 
-#### [District Managers](http://www.citiesense.com/docs/pages/7-District%20Manager.md)
+#### [District Managers](http://www.citiesense.com/docs/pages/8-District%20Manager.md)
 
 _District Managers are users that are part of an enterprise account for a district organization such as a Business Improvement District (BID), Business Improvement Area (BIA), or Special Services District (SSD)_
