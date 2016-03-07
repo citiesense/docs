@@ -7,6 +7,12 @@ How do I create a Project Page to list a commercial property either for lease or
 
 _Real estate brokers and agents can create a Project Page for available listings by logging into an account on Citiesense and clicking the blue "Add a new project" button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._
 
+### __Commercial property owners__
+
+How do I create a Project Page to list a commercial property either for lease or for sale and publish this to a City Map?
+
+_Similarly, property owners can create a Project Page for available listings by logging into an account on Citiesense and clicking the blue "Add a new project" button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._
+
 ### __Developers and investors__ 	
 
 How do I create a private page that I can share with the rest of my associates as an investment opportunity?
