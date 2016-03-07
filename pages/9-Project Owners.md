@@ -17,7 +17,7 @@ _Similarly, property owners can create a Project Page for available listings by 
 
 How do I create a map that includes properties that I want to write about or mention in the content of my publication? 
 
-_Journalists and other media content creators do not need to be a Project Owner in order to use a map that already exists on a Project Page. To search for an existing Project Page about a specific property, use the [Project Search page](http://www.citiesense.com/search) or a [City Map page](http://www.citiesense.com/cities)._
+_Journalists and other media content creators do not need to be a Project Owner in order to use a map that already exists on a Project Page. These maps are always publicly available to be embedded on third party websites. To search for an existing Project Page with a map for a specific property, use the [Project Search page](http://www.citiesense.com/search) or a [City Map page](http://www.citiesense.com/cities)._
 
 _If the a Project Page does not exist for the subject property, simply create a new Project Page with an account on Citiesense. Journalists can create a Project Page by logging into an account on Citiesense and clicking the blue "Add a new project" button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._
 
