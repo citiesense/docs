@@ -4,9 +4,9 @@ Citiesense consolidates the real property research process into a single, sharab
 ![alt text](https://farm2.staticflickr.com/1518/24333409623_6a1f5f8e8d_b.jpg "PReP features")
 
 ### Features of a City Map
-In order to simplify the process of aggregating and understanding real estate data across a number of cities, each city on Citiesense has the same interface for its City Page. 
+In order to simplify the process of aggregating and understanding real estate data across a number of cities, each city on Citiesense has the same interface for its City Map. 
 The features of this interface include:
-* Data filters: ![alt text](https://farm2.staticflickr.com/1532/24312981384_2ff912b930_s.jpg "filters"),
+* Data search filters: ![alt text](https://farm2.staticflickr.com/1490/25600244886_7c971514b0_m.jpg "filters"),
 * Data layers: ![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers"),
 * Basemap toggles: ![alt text](https://farm2.staticflickr.com/1720/24850246761_ba838917b8_s.jpg "basemaps")
 * Save/load filter presets: ![alt text](https://farm2.staticflickr.com/1720/24943561765_b0410f0774_s.jpg "save a filter preset"),
