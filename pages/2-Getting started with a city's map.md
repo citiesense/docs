@@ -7,9 +7,8 @@ Citiesense consolidates the real property research process into a single, sharab
 In order to simplify the process of aggregating and understanding real estate data across a number of cities, each city on Citiesense has the same interface for its City Map. 
 The features of this interface include:
 * Data search filters: ![alt text](https://farm2.staticflickr.com/1678/25330899790_0b960ca8d5_s.jpg "filters"),
-* Data layers: ![alt text](https://farm2.staticflickr.com/1476/24850246751_82a03d9d23_s.jpg "layers"),
+* Data layers: ![alt text](https://farm2.staticflickr.com/1461/25626840665_d6d79da01b_s.jpg "layers"),
 * Basemap toggles: ![alt text](https://farm2.staticflickr.com/1720/24850246761_ba838917b8_s.jpg "basemaps")
-* Save/load filter presets: ![alt text](https://farm2.staticflickr.com/1720/24943561765_b0410f0774_s.jpg "save a filter preset"),
 * Locate yourself in a city: ![alt text](https://farm2.staticflickr.com/1699/24917424116_ab5b1c3f7b_s.jpg "locate me"), and
 * the capability of publishing a Project to a City Map. 
 
