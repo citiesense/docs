@@ -7,7 +7,7 @@ _City Managers are users that are part of an enterprise account maintained by a 
 
 __How do I embed the map of my city on a website or blog?__
 
-_On every embeddable Citiesense map, there is a button in the upper right hand corner that says “Embed”. To embed this map, click the Embed button, then the “Copy” button to copy the embed code and paste this code into your website or blog_ 
+_On every embeddable Citiesense map, there is a button in the upper right hand corner that says Embed. To embed this map, click the Embed button, then the Copy button to copy the embed code and paste this code into your website or blog_ 
 
 __Who can use an enterprise account for a municipality?__
 
@@ -19,7 +19,7 @@ _Only City Managers can see the dashboards managed as part of an enterprise acco
 
 __How do I add a project to the map?__
 
-_City Managers can create Project Pages by logging into an account on Citiesense and clicking the blue "Add a new project" button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._ 
+_City Managers can create Project Pages by logging into an account on Citiesense and clicking the blue [Add a new project](http://www.citiesense.com/projects/new) button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._ 
 
 __Can I change a project that I did not create / do not own?__
 
