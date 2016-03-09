@@ -5,11 +5,15 @@ Citiesense consolidates the real property research process into a single, sharab
 
 ### Features of a City Map
 In order to simplify the process of aggregating and understanding real estate data across a number of cities, each city on Citiesense has the same interface for its City Map. 
-The features of this interface include:
+
+The controls for the map are located on a sidebar that can be brought into view by clicking the control icon in the upper left corner of the map. It looks like this: ![alt text](https://farm2.staticflickr.com/1561/25336832970_ecd3ce984d_s.jpg "control")
+
+The features of the sidebar include:
 * Data search filters: ![alt text](https://farm2.staticflickr.com/1678/25330899790_0b960ca8d5_s.jpg "filters"),
-* Data layers: ![alt text](https://farm2.staticflickr.com/1461/25626840665_d6d79da01b_s.jpg "layers"),
-* Basemap toggles: ![alt text](https://farm2.staticflickr.com/1460/25005641653_6859171d70_s.jpg "basemaps"), and
-* the capability of publishing a Project to a City Map. 
+* Data layers: ![alt text](https://farm2.staticflickr.com/1461/25626840665_d6d79da01b_s.jpg "layers"), and
+* Basemap toggles: ![alt text](https://farm2.staticflickr.com/1460/25005641653_6859171d70_s.jpg "basemaps"),
+
+Citiesenses also enables users to add their own content to a City Map. For more information about this, take a look at [Project Owners](http://www.citiesense.com/docs/pages/9-Project%20Owners.md)
 
 Each city featured on Citiesense has its own version of a City Map. Some City Maps are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of information pertaining to individual properties, land use, market activity and demographics. 
 
