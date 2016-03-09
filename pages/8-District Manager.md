@@ -18,7 +18,7 @@ _Only District Managers can see the district’s dashboard_
 
 __How do I add a project to the map?__
 
-_District Managers can create Project Pages by logging into an account on Citiesense and clicking the blue "Add a new project" button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._ 
+_District Managers can create Project Pages by logging into an account on Citiesense and clicking the blue [Add a new project](http://www.citiesense.com/projects/new) button in the upper right corner of the [My Projects](http://www.citiesense.com/dashboard) page, or by following [this link](http://www.citiesense.com/projects/new)._ 
 
 __Can I change a project that I did not create / do not own?__
 
