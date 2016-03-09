@@ -6,7 +6,7 @@ _District Managers are users that are part of an enterprise account for a distri
 
 __How do I embed the map of my district on a website or blog?__
 
-_On every embeddable Citiesense map, there is a button in the upper right hand corner that says __Embed__. To embed this map, click the Embed button, then the __Copy__ button to copy the embed code and paste this code into your website or blog_
+_On every embeddable Citiesense map, there is a button in the upper right hand corner that says __Embed__ . To embed this map, click the Embed button, then the __Copy__ button to copy the embed code and paste this code into your website or blog_
 
 __Who can use an enterprise account for a district?__
 
