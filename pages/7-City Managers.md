@@ -24,6 +24,10 @@ _City Managers can create Project Pages by logging into an account on Citiesense
 __Can I change a project that I did not create / do not own?__
 
 _If you are a City Manager or a District Manager and a project is publicly displayed on the City or District map that you are managing, then you are able to edit that project_
+_To edit a published project, visit that project page and click on the Edit button in the upper right corner over the map._
+
+_It should look like this:_ 
+![atl text](https://farm2.staticflickr.com/1671/25380360800_c28d82473b_m.jpg "edit project button")
 
 __Can other users change a project that I own?__
 
