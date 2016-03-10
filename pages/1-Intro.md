@@ -7,4 +7,4 @@ Use Citiesense to share property data maps with anyone either privately for rese
 This User Guide is provided to help you understand the features of the service. Should you have any questions, please email us at *info@citiesense.com*.
 
 
-![Getting Started](https://rawgithub.com/citiesense/docs/master/images/Intro_icon.svg)
+
