@@ -26,7 +26,7 @@ _If you are a City Manager or a District Manager and a project is publicly displ
 _To edit a published project, visit that project page and click on the Edit button in the upper right corner over the map._
 
 _It should look like this:_ 
-![atl text](https://farm2.staticflickr.com/1649/25681187045_d2cbea5faa_m.jpg "edit project button")
+![atl text](https://farm2.staticflickr.com/1671/25380360800_c28d82473b_m.jpg "edit project button")
 
 __Can other users change a project that I own?__
 
