@@ -25,7 +25,7 @@ __Can I change a project that I did not create / do not own?__
 _If you are a City Manager or a District Manager and a project is publicly displayed on the City or District map that you are managing, then you are able to edit that project_
 _To edit a published project, visit that project page and click on the Edit button in the upper right corner over the map_
 _It should look like this:_ 
-![atl text](https://farm2.staticflickr.com/1538/25588290141_ccf92efc0f_b.jpg "edit project button")
+![atl text](https://farm2.staticflickr.com/1549/25050547124_974f9fd767_m.jpg "edit project button")
 
 __Can other users change a project that I own?__
 
