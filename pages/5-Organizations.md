@@ -1,7 +1,7 @@
 ## Organizations
 Citiesense has enterprise accounts available for organizations that wish to use our data-rich maps to help facilitate economic development for a city or a select neighborhood or district within a city. 
 
-There are two User Types for enterprise accounts: City Managers and District Managers. 
+There are currently two User Types that Citiesense provides enterprise accounts for: City Managers and District Managers. 
 
 ### __User Types__
 #### [City Managers](http://www.citiesense.com/docs/pages/7-City%20Managers.md)
