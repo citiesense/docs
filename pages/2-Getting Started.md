@@ -30,7 +30,7 @@ __Land Use:__ This category includes layers of information about land use regula
 
 ![alt text](http://d9hhrg4mnvzow.cloudfront.net/try.citiesense.com/real-estate-maps/48ae8e49-market-activity-icon_02r02r02r02r000000.png "Market")
 
-__Market:__ This category includes layers of information that pertain to the local real estate market. These layers include building permit data from a city's Department of Buildings, real estate listings data and transactions data.
+__Market:__ This category includes layers of information that pertain to the local real estate market. These layers might include building permit data from a city's Department of Buildings, real estate listings data and transactions data.
 
 ![alt text](http://d9hhrg4mnvzow.cloudfront.net/try.citiesense.com/real-estate-maps/6f3b8c1e-demographics-icon_02o02o02o02o000000.png "Demographics")
 
