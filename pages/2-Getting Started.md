@@ -13,7 +13,7 @@ The features of the sidebar include:
 * Data layers: ![alt text](https://farm2.staticflickr.com/1461/25626840665_d6d79da01b_s.jpg "layers"), and
 * Basemap toggles: ![alt text](https://farm2.staticflickr.com/1460/25005641653_6859171d70_s.jpg "basemaps"),
 
-Citiesenses also enables users to add their own content to a City Map. For more information about this, take a look at [Project Owners](http://www.citiesense.com/docs/pages/9-Project%20Owners.md)
+Citiesense also enables users to add their own content to a City Map. For more information about this, take a look at [Project Owners](http://www.citiesense.com/docs/pages/9-Project%20Owners.md)
 
 Each city featured on Citiesense has its own version of a City Map. Some City Maps are more comprehensive than others with regards to the amount of data available, but they are all organized the same way with 4 categories of information pertaining to individual properties, land use, market activity and demographics. 
 
