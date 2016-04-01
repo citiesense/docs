@@ -8,13 +8,16 @@ _(Commercial Real estate brokers and agents, real estate developers and investor
 
 
 ### __User Types__
+
 #### [City Managers](http://www.citiesense.com/docs/pages/7-City%20Managers.md)
 
 _City Managers are users that are part of an enterprise account maintained by a municipality on Citiesense._
 
+
 #### [District Managers](http://www.citiesense.com/docs/pages/8-District%20Manager.md)
 
 _District Managers are users that are part of an enterprise account for a district organization such as a Business Improvement District (BID), Business Improvement Area (BIA), or Special Services District (SSD)_
+
 
 #### [Project Owners](http://www.citiesense.com/docs/pages/9-Project%20Owners.md)
 
