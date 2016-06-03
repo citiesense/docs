@@ -31,7 +31,7 @@ Gather property information with the click of a button and share this with the r
 
 _Please email us at info@citiesense.com for access to this feature._
 
-### __Architects, urban designers, city planners, land use consultants, and Economic development specialists__ 
+### __Architects, urban designers, city planners, land use consultants, and economic development specialists__ 
 
 Create a map that includes all the properties or a selection of properties in an area that your team is analyzing for a client. 
 
