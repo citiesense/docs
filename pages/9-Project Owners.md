@@ -39,7 +39,7 @@ _Please email us at info@citiesense.com for access to this feature._
 
 ### __Others__ 
 
-How can I create a map of properties that interest me?_
+How can I create a map of properties that interest me?
 
 _Please email us at info@citiesense.com for access to this feature._
 
