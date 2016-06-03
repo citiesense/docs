@@ -33,7 +33,7 @@ _Please email us at info@citiesense.com for access to this feature._
 
 ### __Architects, urban designers, city planners, land use consultants, and economic development specialists__ 
 
-Create a map that includes all the properties or a selection of properties in an area that your team is analyzing for a client. 
+Create a map that includes all the properties or a selection of properties in an area that you and your team is analyzing for a client. 
 
 _Please email us at info@citiesense.com for access to this feature._
 
