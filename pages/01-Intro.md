@@ -1,6 +1,6 @@
 ## Welcome to Citiesense. 
 
-Citiesense is a data-rich map for the real estate industry that improves the workflow for real estate research, underwriting properties, data management, real estate marketing, and other urban planning and development related processes. 
+Citiesense is a map-based platform designed to help communities improve their neighborhoods by enabling them to access, manage and share informtion about specific Areas in their city. 
 
 Use Citiesense to share property data maps with anyone either privately for research and planning or publicly for marketing and public engagement. 
 
