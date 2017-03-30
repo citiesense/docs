@@ -9,7 +9,7 @@ Citiesense makes it incredibly simple and fast to access and organize informatio
 
 
 __Step 1__
-Click the blue Add Area button in the upper right hand corner of the map. 
+Click the blue  N E W   A R E A  button in the upper right hand corner of the map. 
 
 
 __Step 2__
