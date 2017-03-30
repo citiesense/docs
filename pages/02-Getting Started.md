@@ -9,7 +9,7 @@ Citiesense makes it incredibly simple and fast to access and organize informatio
 
 
 __Step 1__
-Click the blue  N E W   A R E A  button in the upper right hand corner of the map. 
+Click the blue __"New Area"__ button in the upper right hand corner of the map. 
 
 
 __Step 2__
@@ -17,7 +17,7 @@ Click your cursor anywhere on the map to begin creating a shape around your pref
  
  
  __Step 3__
- Click the blue "Done" button to either "Edit" your shape and change the Area boundary, or click "Save" to add the Area to your account. 
+ Click the blue __"Done"__ button to either __"Edit"__ your shape and change the Area boundary, or click __"Save"__ to add the Area to your account. 
  
 Your new Area will help keep you in the know about this part of the city. You can:
 
