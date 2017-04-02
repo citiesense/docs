@@ -29,7 +29,6 @@ Your new Area will help keep you in the know about this part of the city. You ca
 - Instantly perform complex spatial analysis of data from a range of public sources, such as US Census data on demographics and municipal data on the individual tax lots in the Area. 
 - Add your own insight about properties in the Area by creating _Projects_ in your Citiesense Account. 
 
-To learn more about Areas, please visit the _Areas Documentation_
 
 
 
