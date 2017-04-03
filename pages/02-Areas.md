@@ -1,7 +1,7 @@
 ## Getting Started with Areas
 Citiesense makes it simple and fast to access and organize information about specific areas in a city. Whether a neighborhood, a couple of blocks, or a large section of the city, start by setting up an Area on the City Map to begin organzing, analyzing and tracking information from a comprehensive stack of data sources. 
  
-*__It's completely FREE to add an Area to your account, so let's do this.__*
+*__It's completely FREE to add an Area to your account, so let's get started.__*
  
  
 
