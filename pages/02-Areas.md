@@ -23,7 +23,7 @@ Click your cursor anywhere on the map to begin creating a shape around your pref
  __Step 3__
  Click the blue __"Done"__ button to either __"Edit"__ your shape and change the Area boundary, or click __"Save"__ to add the Area to your account. 
  
-Your new Area will help keep you in the know about this part of the city. You can:
+Your new Area will help keep you in-the-know about this part of the city. You can:
 
 - Subscribe to datasets like the City's building permits system to track development activity for properties in your Area.  
 - Instantly perform complex spatial analysis of data from a range of public sources, such as US Census data on demographics and municipal data on the individual tax lots in the Area. 
