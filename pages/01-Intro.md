@@ -1,4 +1,4 @@
-## Welcome to the Neighborhood Knowledge Platform™. 
+## Welcome to the Neighborhood Knowledge Platform &trade; 
 
 Citiesense is a map-based platform that centralizes the tools and information sources needed to manage neighborhood development. Designed to put local communities in control of their neighborhood's future, Citiesense enables community organizations to access, manage and share information about specific **areas** in a city. 
 ______
