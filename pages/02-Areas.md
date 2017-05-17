@@ -6,7 +6,7 @@ Citiesense makes it simple and fast to access and organize information about spe
  
 
 
-![alt text](https://im3.ezgif.com/tmp/ezgif-3-8404627add.gif "Add your first Area")
+![alt text](https://media.giphy.com/media/10XzuK93oJQqBO/giphy.gif "Add your first Area")
 
 
 ### Add your first Area
