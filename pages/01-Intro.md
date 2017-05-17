@@ -1,4 +1,4 @@
-## Welcome to Citiesense. 
+## Welcome to the Neighborhood Knowledge Platform™. 
 
 Citiesense is a map-based platform designed for communities that want to use their local insight to improve their neighborhoods. Citiesense enables neighborhood organizations to access, manage and share information about specific Areas in their city. 
 ______
