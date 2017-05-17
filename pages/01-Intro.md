@@ -6,5 +6,5 @@ Use Citiesense to share property data, track development activity, and create cu
 ______
 This User Guide is provided to help you understand the features of the service. Should you have any questions, please email us at *info@citiesense.com*.
 
-![alt text](https://farm5.staticflickr.com/4157/33914652443_818e23595b_h.jpg "The Neighborhood Knowledge Platform")
+![alt text](https://farm5.staticflickr.com/4162/34683833466_b152ee56ba_b.jpg "The Neighborhood Knowledge Platform")
 
