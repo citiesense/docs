@@ -8,3 +8,11 @@ This User Guide is provided to help you understand the features of the service. 
 
 ![alt text](https://farm5.staticflickr.com/4162/34683833466_b152ee56ba_b.jpg "The Neighborhood Knowledge Platform")
 
+### Frequently Asked Questions 
+
+- What are Areas and how do I create one?
+______
+- What are Projects?
+______
+- Where does data about a city in the platform come from?
+
