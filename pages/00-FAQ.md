@@ -1,5 +1,5 @@
 
-## Frequently Asked Questions 
+# Frequently Asked Questions 
 ______
 ### What is this platform and who is it for?
 
