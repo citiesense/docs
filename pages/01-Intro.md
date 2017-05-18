@@ -9,11 +9,11 @@ This User Guide is provided to help you understand the features of the service. 
 ![alt text](https://farm5.staticflickr.com/4162/34683833466_b152ee56ba_b.jpg "The Neighborhood Knowledge Platform")
 
 ### Frequently Asked Questions 
-
+______
 - What are Areas and how do I create one?
-[Areas](https://www.citiesense.com/docs/pages/02-Areas.md "Areas")
+[**Areas**](https://www.citiesense.com/docs/pages/02-Areas.md "Areas")
 ______
-- What are Projects?
+- What are Projects? [**Projects**](https://www.citiesense.com/docs/pages/04-Projects.md "Projects")
 ______
-- Where does data about a city in the platform come from?
+- Where does data about a city in the platform come from? [**Data Sources** (https://www.citiesense.com/docs/pages/05-Sources.md "Citiesense Data Sources")
 
