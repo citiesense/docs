@@ -15,5 +15,5 @@ ______
 ______
 - What are Projects? [**Projects**](https://www.citiesense.com/docs/pages/04-Projects.md "Projects")
 ______
-- Where does data about a city in the platform come from? [**Data Sources** (https://www.citiesense.com/docs/pages/05-Sources.md "Citiesense Data Sources")
+- Where does data about a city in the platform come from? [**Data Sources**] (https://www.citiesense.com/docs/pages/05-Sources.md "Citiesense Data Sources")
 
