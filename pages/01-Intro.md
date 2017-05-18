@@ -11,6 +11,7 @@ This User Guide is provided to help you understand the features of the service. 
 ### Frequently Asked Questions 
 
 - What are Areas and how do I create one?
+[Areas](https://www.citiesense.com/docs/pages/02-Areas.md "Areas")
 ______
 - What are Projects?
 ______
