@@ -1,19 +1,19 @@
 
 ## **Frequently Asked Questions** 
 ______
-### What is this platform and who is it for?
+### What is this platform, and who is it for?
 
 ## [**Intro**](https://www.citiesense.com/docs/pages/01-Intro.md "Intro")
 ______
-### What are Areas and how do I create one?
+### What are Areas, and how do I create one?
 
 ## [**Areas**](https://www.citiesense.com/docs/pages/02-Areas.md "Areas")
 ______
-### What is a Dashboard and how do I create one for one of my Areas?
+### What is a Dashboard, and how do I create one for one of my Areas?
 
 ## [**Dashboards**](https://www.citiesense.com/docs/pages/03-Dashboards.md "Dashboards")
 ______
-### What are Projects? 
+### What are Projects, and how do I use them? 
 
 ## [**Projects**](https://www.citiesense.com/docs/pages/04-Projects.md "Projects")
 ______
