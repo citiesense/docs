@@ -1,8 +1,8 @@
 ## Welcome to the Neighborhood Knowledge Platform&trade; 
 
-Citiesense is a map-based platform that centralizes the tools and information sources needed to manage neighborhood development. Designed to put local communities in control of their neighborhood's future, Citiesense enables community organizations to access, manage and share information about specific **areas** in a city. 
+Citiesense is a map-based platform that centralizes the tools and information sources needed to manage and improve neighborhoods. Designed to put local communities in control of their neighborhood's future, Citiesense enables neighborhood organizations to access, manage and share information for specific **areas** in a city, whether a special district, a single block, or a neighborhood-size area. 
 ______
-Use Citiesense to share property data, track development activity, and create custom data-rich maps and dashboards that can present valuable local insight about a neighborhood.
+Use Citiesense to share property data, track development activity and local businesses, and create custom data-rich maps and dashboards that present valuable local insight about a neighborhood.
 ______
 This User Guide is provided to help you understand the features of the service. Should you have any questions, please email us at *info@citiesense.com*.
 
