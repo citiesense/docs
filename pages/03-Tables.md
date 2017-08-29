@@ -7,4 +7,6 @@ Generating a set of Tables for an [Area](https://www.citiesense.com/docs/pages/0
 Once your Area is *saved*, click the Tables icon 
 ![alt text](https://farm5.staticflickr.com/4416/36903352205_d054ce0434_s.jpg "Tables icon") in the Area tool bar to navigate to the Tables view of the saved Area. 
 
-You can always instantly generate Tables as a way to view and manage data based on any of your saved Areas. 
+You can always instantly generate Tables as a way to view and manage local data based on any of your saved Areas. 
+
+![alt text](https://gifyu.com/images/ezgif.com-video-to-gif24f466.gif "Save an Area and generate Tables")
