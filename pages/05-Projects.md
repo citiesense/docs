@@ -20,6 +20,6 @@ Use the form to enter information about the property. For example, you might add
 ![alt text](https://gifyu.com/images/ezgif.com-video-to-gif6f4e17.gif "Fill out the form to add your local data.")
 
 ### Step 3 - Create the new record
-Once you have all your data about the property and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for you new records to show up for this property.
+Once you have all your data about the property and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for this new record to show up as part of this property on the sidebar.
 
 ![alt text](https://gifyu.com/images/ezgif.com-video-to-gif73b738.gif "Refresh the page to see your new record.")
