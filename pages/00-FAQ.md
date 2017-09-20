@@ -9,7 +9,7 @@ ______
 
 ## [**Areas**](https://www.citiesense.com/docs/pages/02-Areas.md "Areas")
 ______
-### What is a Tables, and how do I create one for one of my Areas?
+### What are Tables, and how do I create Tables to organize data for one of my Areas?
 
 ## [**Tables**](https://www.citiesense.com/docs/pages/03-Tables.md "Tables")
 ______
