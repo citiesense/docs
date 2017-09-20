@@ -12,7 +12,7 @@ Here are some examples of Projects:
 ### Step 1 - Find the property
 Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or navigate to the property you want to add or edit data for. Click on the blue edit button in the sidebar to open the edit modal and select the type of data you are adding, i.e. a business, a listing for a vacant space, or development activity. 
 
-![alt text](https://gifyu.com/images/1w7iu3.gif "Find the property you want to manage, and click the edit button.")
+![alt text](https://gifyu.com/images/ezgif.com-video-to-gif330f70.gif "Find the property you want to manage, and click the edit button.")
 
 ### Step 2 - Fill out the form
 Use the form to enter information about the property. For example, you might add the name of a business and a photo of the new storefront, or you might show the asking rent for a commercial space if you keep track of available listings for vacant storefronts.
