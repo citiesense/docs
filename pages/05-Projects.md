@@ -22,4 +22,4 @@ Use the form to enter information about the property. For example, you might add
 ### Step 3 - Create the new record
 Once you have all your data about the property and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for you new records to show up for this property.
 
-![alt text](https://gifyu.com/images/1w7j5h.gif "Refresh the page to see your new record.")
+![alt text](https://gifyu.com/images/ezgif.com-video-to-gif73b738.gif "Refresh the page to see your new record.")
