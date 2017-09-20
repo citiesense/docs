@@ -16,8 +16,10 @@ Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to
 
 ### Step 2 - Fill out the form
 Use the form to enter information about the property. For example, you might add the name of a business and a photo of the new storefront, or you might show the asking rent for a commercial space if you keep track of available listings for vacant storefronts.
+
 ![alt text](https://gifyu.com/images/1w7j2j.gif "Fill out the form to add your local data.")
 
 ### Step 3 - Create the new record
-Once you have all your data about the property and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for you new records to show up for this property. 
+Once you have all your data about the property and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for you new records to show up for this property.
+
 ![alt text](https://gifyu.com/images/1w7j5h.gif "Refresh the page to see your new record.")
