@@ -1,4 +1,4 @@
-## What are Projects?
+## What are Pages?
 
 Use Projects and their [**Pages**](https://www.citiesense.com/projects/3287 "example of a project page") to manage and share your local insight about an [**area**](https://www.citiesense.com/docs/pages/02-Areas.md).
 Projects are user-created records about a property. Users can create Projects to share their local insight about any property in the city. 
