@@ -8,11 +8,9 @@ Once you have saved an [**Area**](https://www.citiesense.com/docs/pages/02-Areas
 
 
 ![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-9.gif "Unsubscribe and subscribe to Alerts for a saved Area")
+Use the bell icon to unsubscribe and subscribe to Alerts for a saved Area
 
-
-
-
-What does a daily email alert look like? Here's an example:
+## What does a daily email alert look like? Here's an example:
 
 
 ![alt text](https://farm5.staticflickr.com/4638/25144585038_379c045ca2_k.jpg "Example of daily email alerts")
