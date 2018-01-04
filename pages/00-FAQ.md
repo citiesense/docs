@@ -15,11 +15,11 @@ ______
 ______
 ### What is a Dashboard, and how do I create one for one of my Areas?
 
-## [**Dashboards**](https://www.citiesense.com/docs/pages/05-Dashboards.md "Dashboards")
+## [**Dashboards**](https://www.citiesense.com/docs/pages/06-Dashboards.md "Dashboards")
 ______
 ### What are Project Pages, and how do I use them? 
 
-## [**Pages**](https://www.citiesense.com/docs/pages/06-Pages.md "Pagea")
+## [**Pages**](https://www.citiesense.com/docs/pages/05-Pages.md "Pagea")
 ______
 ### Where does data about a city in the platform come from? 
 
