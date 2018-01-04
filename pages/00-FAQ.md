@@ -17,9 +17,9 @@ ______
 
 ## [**Dashboards**](https://www.citiesense.com/docs/pages/05-Dashboards.md "Dashboards")
 ______
-### What are Projects, and how do I use them? 
+### What are Project Pages, and how do I use them? 
 
-## [**Projects**](https://www.citiesense.com/docs/pages/06-Projects.md "Projects")
+## [**Pages**](https://www.citiesense.com/docs/pages/06-Pages.md "Pagea")
 ______
 ### Where does data about a city in the platform come from? 
 
