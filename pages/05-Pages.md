@@ -8,7 +8,7 @@ Here are some examples of Projects:
 - Promote **listings for available commercial space** for retail, office, industrial and other tenants that might move to a neighborhood.
 - Track **Streetscape Assets** to keep records of where there are issues with things like **Tree Pits**, **Waste Bins**, **Benches**, and **Lamp Posts**.
 
-## Adding your local data about a property or a Streetscape is easy.
+## Adding your local data about a *Property* or a *Streetscape* is easy.
 
 ### Step 1 - Find the property or the exact location in the street.
 Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or navigate to the property you want to add or edit data for. Click on the blue edit button in the sidebar to open the edit modal and select the type of data you are adding, i.e. a business, a listing for a vacant space, or development activity. 
@@ -27,7 +27,9 @@ Once you have all your data about the property or streetscape asset, and any pho
 
 
 
-## Managing your data for properties is also easy.
+
+
+## Updating your data for *Properties* and *Streetscapes* is quick and easy too.
 
 ### Example - Change one of your commercial spaces to Vacant when a Tenant moves out.
 Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or business name, or navigate to the property you need to edit. In the sidebar that shows the property records, find the business record and click on the green edit icon beside the business name. In the form that opens, click the red "Make Vacant" button to change this tenant to a "past tenant" and make the unit into a "Vacancy".
