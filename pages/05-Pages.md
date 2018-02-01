@@ -23,3 +23,13 @@ Use the form to enter information about the property. For example, you might add
 Once you have all your data about the property and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for this new record to show up as part of this property you just add the information to on the sidebar.
 
 ![alt text](https://gifyu.com/images/ezgif.com-video-to-gif73b738.gif "Refresh the page to see your new record.")
+
+
+
+## Managing your data for properties is also easy.
+
+### Example - Change one of your commercial spaces to Vacant when a Tenant moves out.
+Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or business name, or navigate to the property you need to edit. In the sidebar that shows the property records, find the business record and click on the green edit icon beside the business name. In the form that opens, click the red "Make Vacant" button to change this tenant to a "past tenant" and make the unit into a "Vacancy".
+
+
+![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-11.gif "Change a tenant to a vacancy.")
