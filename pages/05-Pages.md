@@ -32,4 +32,4 @@ Once you have all your data about the property and any photos added to the form,
 Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or business name, or navigate to the property you need to edit. In the sidebar that shows the property records, find the business record and click on the green edit icon beside the business name. In the form that opens, click the red "Make Vacant" button to change this tenant to a "past tenant" and make the unit into a "Vacancy".
 
 
-![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-11.gif "Change a tenant to a vacancy.")
+![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-12.gif "Change a tenant to a vacancy.")
