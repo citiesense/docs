@@ -1,6 +1,6 @@
 
 ## Where does the data come from?
-Citiesense connects you to open data portals and enables you to add your information about a neighborhood on top of existing public datasets, when available. This means that some of the information in Citiesense is from public data and some of the information is private and comes from [neighborhood communities](https://www.citiesense.com/docs/pages/08-Communities.md), as well as other user managing their data on the platform. 
+Citiesense connects to public data sources that provide useful information about properties, streets and other public spaces in cities. We do this so that you can add your own information about properties and streets on top of existing public records, when available. This means that some of the information in Citiesense is from public data and some of the information is private and comes from [neighborhood communities](https://www.citiesense.com/docs/pages/08-Communities.md) that use Citiesense to manage their local knowledge-base, as well as other groups of users managing data on the platform. 
 
 ## Public Data Sources
 
