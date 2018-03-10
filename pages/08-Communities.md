@@ -8,7 +8,7 @@ Gateway JFK - http://www.jfkibid.org/
 
 Grand Central Partnership - http://www.grandcentralpartnership.nyc/
 
-Long Island City Partnership - https://www.usa.gov/government-works
+Long Island City Partnership - https://longislandcityqueens.com/
 
 Montague Street BID - http://montaguebid.com/
 
