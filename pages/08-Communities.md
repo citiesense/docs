@@ -1,4 +1,4 @@
-## Who are the communities working with us to create the Neighborhood Knowledge Platform®?
+## Who are the communities working with us to create the Neighborhood Knowledge Platform?
 
 Downtown Brooklyn Partnership - http://downtownbrooklyn.com/
 
