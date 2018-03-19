@@ -6,11 +6,11 @@ Managing neighborhoods is a complex time intensive process. Sometimes it helps t
 
 
 __Step 1__
-To add a new team mate to your organization's account, first click the ["New User"](https://www.citiesense.com/users/invitation/new) button in the upper right corner. 
+To add a new teammate to your organization's account, first click the ["New User"](https://www.citiesense.com/users/invitation/new) button in the upper right corner. 
 
 
 __Step 2__
-Fill in the user's details and an invitation will be emailed to the new team mate. 
+Fill in the user's details and an invitation will be emailed to the new teammate. 
  
  
  __Step 3__
@@ -20,6 +20,6 @@ Once you're ready, click the Send Invite button and an invitation will be emaile
 ### Changing the Role of a team mate
 
 
-Any time a new team mate is added, the default role will be 'employee'. If you'd like to grant a new team mate the admin role, you will need to select that from the dropdown menu under __Role__. 
+Any time a new teammate is added, the default role will be 'employee'. If you'd like to grant a new teammate the admin role, you will need to select that from the dropdown menu under __Role__. 
 
 
