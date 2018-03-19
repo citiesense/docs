@@ -14,7 +14,7 @@ Fill in the user's details and an invitation will be emailed to the new teammate
  
  
  __Step 3__
-Once you're ready, click the Send Invite button and an invitation will be emailed to the recipient, providing them with a link to login to the account. The link will expire after 12 hours, so if they do not respond, you may need to resend this invitation by repeating this process when they are ready to accept the invitation. 
+Once you're ready, click the __Send Invitation__ button and an invitation will be emailed to the recipient, providing them with a link to login to the account. The link will expire after 12 hours, so if they do not respond, you may need to resend this invitation by repeating this process when they are ready to accept the invitation. 
  
 
 ### Changing the Role of a team mate
