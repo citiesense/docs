@@ -10,7 +10,7 @@ To add a new teammate to your organization's account, first click the ["New User
 
 
 __Step 2__
-Fill in the user's details and an invitation will be emailed to the new teammate. 
+Fill in the user's details so that an invitation can be emailed to the new teammate. 
  
  
  __Step 3__
