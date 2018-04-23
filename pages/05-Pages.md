@@ -1,11 +1,11 @@
 ## What are Pages?
 
-Use Projects and their [**Pages**](https://www.citiesense.com/projects/3287 "example of a project page") to manage, track and share the status of different neighborhood assets an [**area**](https://www.citiesense.com/docs/pages/02-Areas.md).
-Projects are user-created records about a property or a street condition. Users can create Projects to share their local insight about any property or streetscape in the city. 
-Here are some examples of Projects:
-- Showcase **local businesses and attractions** and provide an accurate understanding of the existing mix of retailers. 
-- Share and track the status of **development activity**.
-- Promote **listings for available commercial space** for retail, office, industrial and other tenants that might move to a neighborhood.
+Use [**Pages**](https://www.citiesense.com/projects/3287 "example of a Page") to manage, track and share the status of different neighborhood assets an [**area**](https://www.citiesense.com/docs/pages/02-Areas.md).
+Pages share user-created records about a property or a street condition. Users can create Pages to share their local insight about any property or streetscape in the city. 
+Here are some examples of Pages:
+- Showcase **Local Businesses and Attractions** and provide an accurate understanding of the existing mix of retailers. 
+- Share and track the status of **Development Activity**.
+- Promote **Listings for available commercial space** for retail, office, industrial and other tenants that might move to a neighborhood.
 - Track **Streetscape Assets** to keep records of where there are issues with things like **Tree Pits**, **Waste Bins**, **Benches**, and **Lamp Posts**.
 
 ## Adding your local data about a *Property* or a *Streetscape* is easy.
