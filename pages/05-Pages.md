@@ -1,6 +1,6 @@
 ## What are Pages?
 
-Use [**Pages**](https://www.citiesense.com/projects/3287 "example of a Page") to manage, track and share the status of different neighborhood assets an [**area**](https://www.citiesense.com/docs/pages/02-Areas.md).
+Use [**Pages**](https://www.citiesense.com/projects/3287 "example of a Page") to manage, track and share the status of different neighborhood assets in an [**area**](https://www.citiesense.com/docs/pages/02-Areas.md).
 Pages share user-created records about a property or a street condition. Users can create Pages to share their local insight about any property or streetscape in the city. 
 Here are some examples of Pages:
 - Showcase **Local Businesses and Attractions** and provide an accurate understanding of the existing mix of retailers. 
