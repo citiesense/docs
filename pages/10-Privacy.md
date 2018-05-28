@@ -9,8 +9,9 @@ Citiesense is an information service and data management platform. To provide ou
 ## To Whom Does This Policy Apply?
 
 Some parts of this Policy are directed at specific types of people. We use some special terminology to refer to them, which we define below. This Policy applies to everyone who uses our Service, but sometimes we direct parts of it toward particular groups of users.
-Users: "Users" are everyone who uses our Service.
-Subscribers: "Subscribers" are Users who participate in our paid subscription plans. Subscribers gain access to additional features of this web platform that are available through the Service.
+
+- Users: "Users" are everyone who uses our Service.
+- Subscribers: "Subscribers" are Users who participate in our paid subscription plans. Subscribers gain access to additional features of this web platform that are available through the Service.
 
 ## What Information Do We Collect, and Where Do We Get It?
 
@@ -48,7 +49,9 @@ We may release personal information when we believe that doing so is appropriate
 ### Citiesense Emails:
 
 You can control whether you receive Citiesense emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to us.
-Accessing Your Personally Identifiable Information:
+
+### Accessing Your Personally Identifiable Information:
+
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by logging into your account or by emailing our Customer Support at customerservice@citiesense.com or by contacting us by postal mail at the contact information listed below.
 
 ### Deleting Your Account:
@@ -78,7 +81,8 @@ We DO NOT collect any Sensitive Types of Data from Users, such as:
 ### Third-Party Websites: 
 
 Our Site may contain links to other websites. When you click on one of these links, you are navigating to another website. We do not accept liability for misuse of any information by any website controller to which we may link. We also do not have any responsibility of liability for the content on websites that link to our Site. We encourage you to read the privacy statements of these sites, which may differ from ours. Citiesense currently relies on the following Third-Party Websites:
-Stripe, https://stripe.com/us (We use Stripe to process subscription payments from Subscribers.)
+
+- Stripe, https://stripe.com/us (We use Stripe to process subscription payments from Subscribers.)
  
 ### Sale / Merger: 
 
