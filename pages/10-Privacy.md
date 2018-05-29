@@ -83,6 +83,9 @@ We DO NOT collect any Sensitive Types of Data from Users, such as:
 Our Site may contain links to other websites. When you click on one of these links, you are navigating to another website. We do not accept liability for misuse of any information by any website controller to which we may link. We also do not have any responsibility of liability for the content on websites that link to our Site. We encourage you to read the privacy statements of these sites, which may differ from ours. Citiesense currently relies on the following Third-Party Websites:
 
 - Stripe, https://stripe.com/us (We use Stripe to process subscription payments from Subscribers.)
+- Google Analytics, https://www.analytics.google.com/  (We use Google Analytics to monitor user activity in the website.)
+- Hubspot, https://www.hubspot.com/ (We use Hubspot to host additional marketing content, such as our blog, https://blog.citiesense.com/)
+- Sharethis, https://platform.sharethis.com/ (We use Sharethis to provide easy access to social sharing features for some of the pages on the website, specifically for the blog section of the website.)
  
 #### Sale / Merger: 
 
