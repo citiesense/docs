@@ -1,6 +1,6 @@
 ## Citiesense Privacy Policy
 
-Protecting the privacy of our users is super important to us. To that end, Citiesense Inc. (“Citiesense” or “us” or “we” or “our”) is providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use or visit our websites or mobile apps (“Sites”) or our products or services (collectively, the “Service”). This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Service.
+Protecting the privacy of our users is super important to us. To that end, Citiesense Inc. ("Citiesense" or "us" or "we" or "our") is providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use or visit our websites or mobile apps (“Sites”) or our products or services (collectively, the “Service”). This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Service.
 
 ## Why We Collect Information from You
 
