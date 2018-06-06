@@ -6,7 +6,7 @@ Protecting the privacy of our users is super important to us. To that end, Citie
 
 Citiesense is an information service and data management platform. To provide our Service, we use information we collect and data that users manage within their respective user accounts to: (1) Help users locate relevant information; (2) Keep you connected with Citiesense across the Internet and update you with relevant news and information, if you allow us to do so; (3) Facilitate productive relationships and networking opportunities between users, if you allow us to do so.
 
-## To Whom Does This Policy Apply?
+## Who Does This Policy Apply To?
 
 Some parts of this Policy are directed at specific types of people. We use some special terminology to refer to them, which we define below. This Policy applies to everyone who uses our Service, but sometimes we direct parts of it toward particular groups of users.
 
@@ -21,7 +21,7 @@ Like many online services, we use technologies like session and persistent cooki
 
 Our servers automatically record information ("Log Data") created by your use of the Service. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device, search terms, and cookie information. We receive Log Data when you interact with our Service, for example, when you visit our websites, sign into our Service, or interact with our email notifications. We use Log Data to provide our Service and to measure, customize, and improve them collect and use in the aggregate.
 
-#### Information We Collect from Users with Citiesense Accounts:
+#### Information We Collect from All Users with Citiesense Accounts:
 
 When using our Service, you have the option to create an account. If you choose to create an account, we ask you to provide us with some limited personal information like your name and email address. We may use this information to contact you about the services on our Site in which you have expressed interest, or to suggest Citiesense tools and services to improve your experience using the Citiesense website. If your browser permits the use of cookies, we will collect and store additional information using persistent cookies and associate it with your account even if you are logged out.
 
