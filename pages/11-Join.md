@@ -48,9 +48,9 @@ Decisions about where, what and when to build new buildings, improve infrastruct
 
 The platform is currently being created and tested in partnership with several neighborhood organizations in New York City that manage Business Improvement Districts (BIDs).
 
- 
+
 ### About Our Partners
- 
+
 **[New Lab](https://newlab.com/)** supports entrepreneurs who are defining the future of technology and human experience. Based in the Brooklyn Navy Yard, New Lab provides the tools and community that unite and support 500+ innovative entrepreneurs, designers, and engineers representing over 100 companies in a variety of fields—including robotics, A.I., urban technology, and energy—and fosters collaboration and advancement across disciplines.
  
 The Circular City program is a new initiative spearheaded by New Lab to bring together select New York based startups including Citiesense, Carmera and Numina with city stakeholders, university researchers and forward-looking investors to define the future of smart cities beginning with Downtown Brooklyn.
