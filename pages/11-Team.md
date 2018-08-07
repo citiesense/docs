@@ -1,17 +1,17 @@
-#Join Us 
+## Join Us 
 
-Available Positions:
+**Available Positions:**
 
-**Interaction Design Mentor**
+### Interaction Design Mentor
 
-Design and user experience (UX) are at the forefront of our research and product development process. As such, Citiesense is seeking an experienced designer to join our team as an Interaction Design Mentor from August through November. The Mentorship will require part-time (up to 8 dedicated hours per week) availability. The focus for the Mentorship is the guidance of between 1 to 4 interaction design interns as they work to create design assets for new features specifically relevant to a program Citiesense is currently taking part in:  [New Lab’s  Circular City program](https://newlab.com/announcements/new-lab-city-the-circular-city/).
+Design and user experience (UX) are at the forefront of our research and product development process. As such, Citiesense is seeking an experienced designer to join our team as an Interaction Design Mentor from August through November. The Mentorship will require part-time availability (up to 8 dedicated hours per week, and we will consider off-site/virtual involvement). The focus for the Mentorship is the guidance of between 1 to 4 interaction design interns as they work to create design assets for new features specifically relevant to a program Citiesense is currently taking part in:  [New Lab’s  Circular City program](https://newlab.com/announcements/new-lab-city-the-circular-city/).
 
 This person will work alongside Citiesense’s team of 3 co-founders and all interaction design interns and have the chance to meet and collaborate with additional startups, researchers and civic organizations engaged in the Circular City program at New Lab. The goal of the product design team is to take on complex tasks and transform them into intuitive, accessible and easy-to-use designs for the early adopters of our SaaS platform—ranging from novice to sophisticated users. Achieving this goal requires that you collaborate closely with our head of Engineering and Product Management throughout the design process—from crafting user flows and wireframes to building user interface mockups and prototypes. An ideal candidate for this position has experience working with maps and strives to address user needs with creatively intuitive and delightful interface designs.
-Responsibilities
 
-Help interns and existing Citiesense team to define the user model and user interface for new and existing Citiesense products and features.
+### Responsibilities
 
-Oversee the development of high level and/or detailed storyboards, mockups, and prototypes to effectively communicate interaction and design ideas.
+- Help interns and existing Citiesense team to define the user model and user interface for new and existing Citiesense products and features.
+- Oversee the development of high level and/or detailed storyboards, mockups, and prototypes to effectively communicate interaction and design ideas.
 
 Gauge the usability of new and existing products and contribute constructive suggestions for improvement.
 
@@ -56,7 +56,7 @@ A stipend will be offered for this position.
 
 __________
 
-About Citiesense
+**About Citiesense**
 
 Decisions about where, what and when to build new buildings, improve infrastructure, or open new businesses are big decisions that impact cities at the neighborhood scale. To help with these decisions, Citiesense is establishing a ‘Neighborhood Knowledge Platform™’, enabling cities to organize fresh information for the real estate industry, from the neighborhood up, and drive development toward the best outcomes.
 
@@ -64,10 +64,10 @@ Decisions about where, what and when to build new buildings, improve infrastruct
 The platform is currently being created and tested in partnership with several neighborhood organizations in New York City that manage Business Improvement Districts (BIDs).
 
  
-About Our Partners
+### About Our Partners
 
  
-New Lab
+**[New Lab](https://newlab.com/)**
 
 New Lab supports entrepreneurs who are defining the future of technology and human experience. Based in the Brooklyn Navy Yard, New Lab provides the tools and community that unite and support 500+ innovative entrepreneurs, designers, and engineers representing over 100 companies in a variety of fields—including robotics, A.I., urban technology, and energy—and fosters collaboration and advancement across disciplines.
 
@@ -75,11 +75,11 @@ New Lab supports entrepreneurs who are defining the future of technology and hum
 The Circular City program is a new initiative spearheaded by New Lab to bring together select New York based startups including Citiesense, Carmera and Numina with city stakeholders, university researchers and forward-looking investors to define the future of smart cities beginning with Downtown Brooklyn.
 
  
-Numina
+**[Numina](http://www.numina.co/)**
 
 Numina delivers real-time insights from streets to make cities more responsive. 45% of land area in cities is streets, sidewalk, parks — and isn’t producing data. Numina partners with cities to mount computer vision sensors to light poles and generate unprecedented, anonymous flow data about every type of traveler and object in these spaces. Numina provides the API for streets, so developers can access real-time activity and archived insights for applications in mobility, insurance, real estate, logistics, and more.
 
  
-Carmera
+**[Carmera](https://www.carmera.com/)**
 
 Carmera is on a mission to automate cities by maintaining the world’s most robust real-time, street-level intelligence platform and to make it accessible to anyone.
