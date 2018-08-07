@@ -1,13 +1,13 @@
 ## Join Us 
 
-[![TEAM](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16997905_1373458609342299_8591615380535575814_n.jpg?_nc_cat=0&oh=ebe73e1a95b9cff6404c9065c9d38b7a&oe=5C0DE6A5)](https://youtu.be/u31hUZWyzjE)
+[![TEAM](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16997905_1373458609342299_8591615380535575814_n.jpg?_nc_cat=0&oh=ebe73e1a95b9cff6404c9065c9d38b7a&oe=5C0DE6A5 =100x20)](https://youtu.be/u31hUZWyzjE)
 __________
 
 **AVAILABLE POSITIONS:**
 
 ### Interaction Design Mentor
 
-Design and user experience (UX) are at the forefront of our research and product development process. As such, Citiesense is seeking an experienced designer to join our team as an Interaction Design Mentor from August through November. The Mentorship will require part-time availability (up to 8 dedicated hours per week, and we will consider off-site/virtual involvement). The focus for the Mentorship is the guidance of between 1 to 4 interaction design interns as they work to create design assets for new features specifically relevant to a program Citiesense is currently taking part in:  [New Lab’s  Circular City program](https://newlab.com/announcements/new-lab-city-the-circular-city/).
+Design and user experience (UX) are at the forefront of our research and product development process. As such, Citiesense is seeking an experienced designer to join our team as an Interaction Design Mentor from August through November. The Mentorship will require part-time availability (up to 8 dedicated hours per week, and we will consider off-site/virtual involvement). The focus for the Mentorship is the guidance of between 1 to 4 interaction design interns as they work to create design assets for new features specifically relevant to a program Citiesense is currently taking part in: [New Lab’s Circular City program](https://newlab.com/announcements/new-lab-city-the-circular-city/).
 
 This person will work alongside Citiesense’s team of 3 co-founders and all interaction design interns and have the chance to meet and collaborate with additional startups, researchers and civic organizations engaged in the Circular City program at New Lab. The goal of the product design team is to take on complex tasks and transform them into intuitive, accessible and easy-to-use designs for the early adopters of our SaaS platform—ranging from novice to sophisticated users. Achieving this goal requires that you collaborate closely with our head of Engineering and Product Management throughout the design process—from crafting user flows and wireframes to building user interface mockups and prototypes. An ideal candidate for this position has experience working with maps and strives to address user needs with creatively intuitive and delightful interface designs.
 
