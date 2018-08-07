@@ -3,7 +3,7 @@
 [![TEAM](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16997905_1373458609342299_8591615380535575814_n.jpg?_nc_cat=0&oh=ebe73e1a95b9cff6404c9065c9d38b7a&oe=5C0DE6A5)](https://youtu.be/u31hUZWyzjE)
 __________
 
-**Available Positions:**
+**AVAILABLE POSITIONS:**
 
 ### Interaction Design Mentor
 
@@ -51,14 +51,10 @@ The platform is currently being created and tested in partnership with several n
  
 ### About Our Partners
  
-**[ New Lab](https://newlab.com/)**
-New Lab supports entrepreneurs who are defining the future of technology and human experience. Based in the Brooklyn Navy Yard, New Lab provides the tools and community that unite and support 500+ innovative entrepreneurs, designers, and engineers representing over 100 companies in a variety of fields—including robotics, A.I., urban technology, and energy—and fosters collaboration and advancement across disciplines.
+**[New Lab](https://newlab.com/)** supports entrepreneurs who are defining the future of technology and human experience. Based in the Brooklyn Navy Yard, New Lab provides the tools and community that unite and support 500+ innovative entrepreneurs, designers, and engineers representing over 100 companies in a variety of fields—including robotics, A.I., urban technology, and energy—and fosters collaboration and advancement across disciplines.
  
 The Circular City program is a new initiative spearheaded by New Lab to bring together select New York based startups including Citiesense, Carmera and Numina with city stakeholders, university researchers and forward-looking investors to define the future of smart cities beginning with Downtown Brooklyn.
 
-**[ Numina](http://www.numina.co/)**
-Numina delivers real-time insights from streets to make cities more responsive. 45% of land area in cities is streets, sidewalk, parks — and isn’t producing data. Numina partners with cities to mount computer vision sensors to light poles and generate unprecedented, anonymous flow data about every type of traveler and object in these spaces. Numina provides the API for streets, so developers can access real-time activity and archived insights for applications in mobility, insurance, real estate, logistics, and more.
+**[Numina](http://www.numina.co/)** delivers real-time insights from streets to make cities more responsive. 45% of land area in cities is streets, sidewalk, parks — and isn’t producing data. Numina partners with cities to mount computer vision sensors to light poles and generate unprecedented, anonymous flow data about every type of traveler and object in these spaces. Numina provides the API for streets, so developers can access real-time activity and archived insights for applications in mobility, insurance, real estate, logistics, and more.
 
- 
-**[ Carmera](https://www.carmera.com/)**
-Carmera is on a mission to automate cities by maintaining the world’s most robust real-time, street-level intelligence platform and to make it accessible to anyone.
+**[Carmera](https://www.carmera.com/)** is on a mission to automate cities by maintaining the world’s most robust real-time, street-level intelligence platform and to make it accessible to anyone.
