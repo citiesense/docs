@@ -1,6 +1,6 @@
 ## Join Us 
 
-[<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16997905_1373458609342299_8591615380535575814_n.jpg?_nc_cat=0&oh=ebe73e1a95b9cff6404c9065c9d38b7a&oe=5C0DE6A5" width="200" height="200" />](https://youtu.be/u31hUZWyzjE)
+[<img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16997905_1373458609342299_8591615380535575814_n.jpg?_nc_cat=0&oh=ebe73e1a95b9cff6404c9065c9d38b7a&oe=5C0DE6A5" width="250" height="200" />](https://youtu.be/u31hUZWyzjE)
 __________
 
 **AVAILABLE POSITIONS:**
