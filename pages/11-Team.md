@@ -14,51 +14,35 @@ This person will work alongside Citiesense’s team of 3 co-founders and all int
 
 - Help interns and existing Citiesense team to define the user model and user interface for new and existing Citiesense products and features.
 - Oversee the development of high level and/or detailed storyboards, mockups, and prototypes to effectively communicate interaction and design ideas.
+- Gauge the usability of new and existing products and contribute constructive suggestions for improvement.
 
-Gauge the usability of new and existing products and contribute constructive suggestions for improvement.
-
-Skills & Attributes
-
-Enterprising and self-directed with the desire to contribute to the Citiesense team and work with program partners
-
-Interest in local government, the field of smart cities, startups, web-platforms, urban design, city planning, real estate, maps, and open data  
-
-Strong bias for action
-
-Ability to learn and adapt in a changing environment
-
-Deadline and quality driven
-
-Ability to take on responsibilities and willingness to be accountable for work product; receptive to feedback and collaboration
-
-Strong communications skills; ability to clearly articulate ideas in writing and in person
+### Skills & Attributes
+- Enterprising and self-directed with the desire to contribute to the Citiesense team and work with program partners
+- Interest in local government, the field of smart cities, startups, web-platforms, urban design, city planning, real estate, maps, and open data  
+- Strong bias for action
+- Ability to learn and adapt in a changing environment
+- Deadline and quality driven
+- Ability to take on responsibilities and willingness to be accountable for work product; receptive to feedback and collaboration
+- Strong communications skills; ability to clearly articulate ideas in writing and in person
 
 
-Minimum Qualifications
+### Minimum Qualifications
+- BA/BS degree or degree candidate in Design (e.g. interaction, graphic, visual communications, product, industrial), HCI, CS, or a related field or equivalent practical experience.
 
-BA/BS degree or degree candidate in Design (e.g. interaction, graphic, visual communications, product, industrial), HCI, CS, or a related field or equivalent practical experience.
-
-Better-Yet Qualifications
-
-MA/MS degree or degree candidate in Design, HCI, CS, or a related field.
-
-Experience working with map-based interface interactions and geographic data.
-
-Demonstrated experience in crafting usable digital interfaces.
-
-Experience working with web or mobile based technologies such as HTML, CSS, JavaScript, etc.
-
-Visual design sensibilities as they relate to applying a brand to digital experiences.
-
-Excellent leadership, communication and collaboration skills
-
-Interested applicants should send a cover letter and resume to Starling Childs at: star@citiesense.com
+### Better-Yet Qualifications
+- MA/MS degree or degree candidate in Design, HCI, CS, or a related field.
+- Experience working with map-based interface interactions and geographic data.
+- Demonstrated experience in crafting usable digital interfaces.
+- Experience working with web or mobile based technologies such as HTML, CSS, JavaScript, etc.
+- Visual design sensibilities as they relate to applying a brand to digital experiences.
+- Excellent leadership, communication and collaboration skills
+- Interested applicants should send a cover letter and resume to Starling Childs at: star@citiesense.com
 
 A stipend will be offered for this position.
 
 __________
 
-**About Citiesense**
+### About Citiesense
 
 Decisions about where, what and when to build new buildings, improve infrastructure, or open new businesses are big decisions that impact cities at the neighborhood scale. To help with these decisions, Citiesense is establishing a ‘Neighborhood Knowledge Platform™’, enabling cities to organize fresh information for the real estate industry, from the neighborhood up, and drive development toward the best outcomes.
 
