@@ -1,5 +1,7 @@
 ## Join Us 
 
+[![TEAM](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/16997905_1373458609342299_8591615380535575814_n.jpg)](https://youtu.be/u31hUZWyzjE)
+
 **Available Positions:**
 
 ### Interaction Design Mentor
