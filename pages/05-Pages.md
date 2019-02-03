@@ -23,7 +23,7 @@ Use the form to enter information about the property or streetscape location. Fo
 ### Step 3 - Create the new record.
 Once you have all your data about the property or streetscape asset, and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for this new record to show up as part of this property you just add the information to on the sidebar.
 
-![alt text](https://github.com/citiesense/docs/blob/master/create_new_record.gif?raw=true "Refresh the page to see your new record.")
+![alt text](https://github.com/citiesense/docs/blob/master/images/create_new_record.gif?raw=true "Refresh the page to see your new record.")
 
 
 
