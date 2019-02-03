@@ -1,5 +1,11 @@
 ## Who are the communities working with us to create the Neighborhood Knowledge Platform?
 
+34th Street Partnership - https://www.34thstreet.org/
+
+Alliance for Coney Island - http://www.allianceforconeyisland.org/
+
+Bryant Park Corporation - https://bryantpark.org/
+
 Downtown Brooklyn Partnership - http://downtownbrooklyn.com/
 
 East Midtown Partnership - https://www.eastmidtown.org/
