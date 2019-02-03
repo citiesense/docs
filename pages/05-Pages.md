@@ -18,7 +18,7 @@ Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to
 ### Step 2 - Add information using the forms.
 Use the form to enter information about the property or streetscape location. For example, you might add the name of a business and a photo of the new storefront, or you might show the asking rent for a commercial space if you keep track of available listings for vacant storefronts. Or you might add a Tree Pit to show that there is an operational streetscape asset serving its role providing shade on hot sunny days and storm water management during wet and rainy days.
 
-![alt text](https://github.com/citiesense/docs/blob/master/select_record_to_add.gifraw=true "Fill out the form to add your local data.")
+![alt text](https://github.com/citiesense/docs/blob/master/select_record_to_add.gif?raw=true "Fill out the form to add your local data.")
 
 ### Step 3 - Create the new record.
 Once you have all your data about the property or streetscape asset, and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for this new record to show up as part of this property you just add the information to on the sidebar.
