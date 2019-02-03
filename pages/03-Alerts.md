@@ -7,7 +7,7 @@ Once you have saved an [**Area**](https://www.citiesense.com/docs/pages/02-Areas
  
 
 
-![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-9.gif "Unsubscribe and subscribe to Alerts for a saved Area")
+![alt text](https://github.com/citiesense/docs/blob/master/images/area_alerts.gif?raw=true "Unsubscribe and subscribe to Alerts for a saved Area")
 
 *Use the bell icon to unsubscribe and subscribe to Alerts for a saved Area*
 
