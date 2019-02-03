@@ -10,4 +10,4 @@ Once your Area is *saved*, click the Tables icon
 
 You can always instantly generate Tables as a way to view and manage local data based on any of your saved Areas. 
 
-![alt text](https://gifyu.com/images/ezgif.com-video-to-gif24f466.gif "Save an Area and generate Tables")
+
