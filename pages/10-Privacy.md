@@ -84,8 +84,6 @@ Our Site may contain links to other websites. When you click on one of these lin
 
 - Stripe, https://stripe.com/us (We use Stripe to process subscription payments from Subscribers.)
 - Google Analytics, https://www.analytics.google.com/  (We use Google Analytics to monitor user activity in the website.)
-- Hubspot, https://www.hubspot.com/ (We use Hubspot to host additional marketing content, such as our blog, https://blog.citiesense.com/)
-- Sharethis, https://platform.sharethis.com/ (We use Sharethis to provide easy access to social sharing features for some of the pages on the website, specifically for the blog section of the website.)
  
 #### Sale / Merger: 
 
