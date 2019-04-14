@@ -12,7 +12,7 @@ Otherwise, once your Area is *saved*, click the Tables icon
 ## How do I import my own data into the Tables?
 You can instantly import your private data into the tables where it will automatically be mapped and connected to other records. use the blue "Upload csv" button located on the far right-hand side to get started. 
 
-[<img src="https://github.com/citiesense/docs/blob/master/images/tables_instructions.png?raw=true" width="650" height="280" />]
+[<img src="https://github.com/citiesense/docs/blob/master/images/tables_instructions.png?raw=true" width="650" />]
 
 
 
