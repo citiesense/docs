@@ -7,10 +7,9 @@ These include:
 - Tenants *(Businesses & Attractions)*
 - Units
 - Contacts
-- Events
 - Streetscape Assets
 - Streetescape Issues
-
+- Events
 
 Any data that you *and your teammates* add to properties and streetscapes will always be accessible through the [Tables](https://www.citiesense.com/tables) interface. 
 
