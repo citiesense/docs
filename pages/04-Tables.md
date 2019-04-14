@@ -1,5 +1,15 @@
 ## What are Tables?
-**The Tables feature generates a set of connected tables for all data about properties, streetscapes, and contacts that are associated with an Area on the map.** 
+**Tables are a set of connected spreadsheets for all data about properties, streetscapes, and contacts that are associated with an Area on the map.** 
+
+These include:
+- Development Activity
+- Listings *(Commercial Real Estate)*
+- Tenants *(Businesses & Attractions)*
+- Units
+- Contacts
+- Events
+- Streetscape Assets
+- Streetescape Issues
 
 
 Any data that you *and your teammates* add to properties and streetscapes will always be accessible through the [Tables](https://www.citiesense.com/tables) interface. 
@@ -10,7 +20,7 @@ Otherwise, once your Area is *saved*, click the Tables icon
 ![alt text](https://farm5.staticflickr.com/4416/36903352205_0bf19a1da0_s.jpg "Tables icon") in the Area tool bar to navigate to the Tables view of the saved Area. 
 
 ## How do I import my own data into the Tables?
-You can instantly import your private data into the tables where it will automatically be mapped and connected to other records. use the blue "Upload csv" button located on the far right-hand side to get started. 
+You can instantly import your private data into the tables where it will automatically be mapped and connected to other records. Use the blue "Upload csv" button located on the far right-hand side to get started. 
 
 <img src="https://github.com/citiesense/docs/blob/master/images/tables_instructions.png?raw=true" width="650" />
 
