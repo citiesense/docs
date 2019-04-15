@@ -2,14 +2,14 @@
 **Tables are a set of connected datasets for all data about properties, streetscapes, and contacts that are associated with an Area on the map.** 
 
 These include:
-- Development Activity
-- Listings *(Represented as Available Space and **Commercial Real Estate** on the map)*
-- Tenants *(Represented as **Businesses & Attractions** on the map)*
-- Units
-- Contacts
-- Streetscape Assets
-- Streetescape Issues
-- Events
+- **Development Activity
+- **Listings *(Represented as Available Space and **Commercial Real Estate** on the map)*
+- **Tenants *(Represented as **Businesses & Attractions** on the map)*
+- **Units
+- **Contacts
+- **Streetscape Assets
+- **Streetescape Issues
+- **Events
 
 Any data that you *and your teammates* add to properties and streetscapes will always be accessible through the [Tables](https://www.citiesense.com/tables) interface. 
 
