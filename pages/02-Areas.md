@@ -33,7 +33,9 @@ If you're ready to get started, [click here to sign up or sign in and add an Are
 
 
 ###*Example of the Area tool being used to test different district assessment techniques for the Grand Street Business Improvement District*
-[<img src="https://github.com/citiesense/docs/blob/master/images/grand_st_assessment.gif?raw=true" width="550" />]
+
+
+<img src="https://github.com/citiesense/docs/blob/master/images/grand_st_assessment.gif?raw=true" width="550" />
 
 
 
