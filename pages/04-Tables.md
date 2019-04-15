@@ -1,10 +1,10 @@
 ## What are Tables?
-**Tables are a set of connected spreadsheets for all data about properties, streetscapes, and contacts that are associated with an Area on the map.** 
+**Tables are a set of connected datasets for all data about properties, streetscapes, and contacts that are associated with an Area on the map.** 
 
 These include:
 - Development Activity
-- Listings *(Commercial Real Estate)*
-- Tenants *(Businesses & Attractions)*
+- Listings *(Represented as Available Space and **Commercial Real Estate** on the map)*
+- Tenants *(Represented as **Businesses & Attractions** on the map)*
 - Units
 - Contacts
 - Streetscape Assets
