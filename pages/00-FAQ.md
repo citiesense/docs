@@ -21,15 +21,15 @@ ______
 
 ## [**Areas**](https://www.citiesense.com/docs/pages/04-Areas.md "Areas")
 ______
-### What are Tables, and how do I create Tables to organize data for one of my Areas?
-
-## [**Tables**](https://www.citiesense.com/docs/pages/05-Tables.md "Tables")
-______
-### How do I set up Alerts about things changing in one for one of my Areas?
+### How do I set up Alerts about changes to datasets in one for one of my Areas?
 
 ## [**Alerts**](https://www.citiesense.com/docs/pages/05-Alerts.md "Dashboards")
 ______
+### What are Tables, and how do I create Tables to organize data for one of my Areas?
+
+## [**Tables**](https://www.citiesense.com/docs/pages/06-Tables.md "Tables")
+______
 ### Where does data about a city in the platform come from? 
 
-## [**Data Sources**](https://www.citiesense.com/docs/pages/07-Sources.md "Citiesense Data Sources")
+## [**Data Sources**](https://www.citiesense.com/docs/pages/09-Sources.md "Citiesense Data Sources")
 
