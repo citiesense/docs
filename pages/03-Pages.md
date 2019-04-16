@@ -10,8 +10,12 @@ Here are some examples of Pages:
 
 ## Adding your local data about a *Property* or a *Streetscape* is easy.
 
-### Step 1 - Find the property or the exact location in the street.
-Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or navigate to the property you want to add or edit data for. Click on the blue edit button in the sidebar to open the edit modal and select the type of data you are adding, i.e. a business, a listing for a vacant space, or development activity. 
+### Step 1 - Find the exact location you're interested in, whether an address, storefront, property boundary or location of something in the street.
+Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or navigate to the location you want to add or edit data for, and click on the exact location on the map. 
+
+A blue pin will mark that location you selected and the Location Details sidebar will open. *(On mobile devices, you may need to click the Location Details icon in the blue toolbar to open this sidebar.)*
+
+Click on the blue edit button in the sidebar to open the edit modal and select the type of data you are adding, i.e. a business, a listing for a vacant space, development activity, streetscape assets, etc. 
 
 ![alt text](https://github.com/citiesense/docs/blob/master/find_the_location.gif?raw=true "Find the property you want to manage, and click the edit button.")
 
