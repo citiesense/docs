@@ -6,4 +6,4 @@ Use Citiesense to track commercial properties, development activity, local busin
 ______
 This User Guide is provided to help you understand the features of the service. Should you have any questions, please email us at *info@citiesense.com*.
 
-<img src="https://github.com/citiesense/docs/blob/master/images/faq_welcome.jpg?raw=true" width="650" />
+<img src="https://github.com/citiesense/docs/blob/master/images/faq_welcome.jpg?raw=true" class="img-fluid" alt="responsive image" />
