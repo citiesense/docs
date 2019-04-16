@@ -1,14 +1,17 @@
 ## What are Pages?
 
-Use [**Pages**](https://www.citiesense.com/projects/3287 "example of a Page") to manage, track and share the status of different neighborhood assets in an [**area**](https://www.citiesense.com/docs/pages/04-Areas.md).
-Pages share user-created records about a property or a street condition. Users can create Pages to share their local insight about any property or streetscape in the city. 
-Here are some examples of Pages:
+Use Pages to manage, track and share the status of different neighborhood assets in your community's neighborhood. 
+
+Every record you add to your account has it's own unique URL and associate webpage, or "Page". This is an important aspect of the platform. Whether you and your team are using the account to inventory *tree pits* along a main street or to track commercial space and the different *Businesses & Attractions* occupying storefronts, Pages will help you centralize the information about these assets and share the information with your community. 
+
+Here are some examples of different types of Pages:
 - Showcase **Local Businesses and Attractions** and provide an accurate understanding of the existing mix of retailers. 
-- Share and track the status of **Development Activity**.
+- Share and track the status of [**Development Activity**](https://www.citiesense.com/projects/3287 "Example of a Page for Development Activity").
 - Promote **Listings for available commercial space** for retail, office, industrial and other tenants that might move to a neighborhood.
 - Track **Streetscape Assets** to keep records of where there are issues with things like **Tree Pits**, **Waste Bins**, **Benches**, and **Lamp Posts**.
 
-## Adding your local data about a *Property* or a *Streetscape* is easy.
+
+## Adding your data about a specific location and creating a new Page is easy.
 
 ### Step 1 - Find the exact location you're interested in, whether an address, storefront, property boundary or location of something in the street.
 Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or navigate to the location you want to add or edit data for, and click on the exact location on the map. 
@@ -31,12 +34,15 @@ Once you have all your data about the property or streetscape asset, and any pho
 
 
 
-
-
-## Updating your data for *Properties* and *Streetscapes* is quick and easy too.
+## Updating your records and Pages is quick and easy too.
 
 ### Example - Change one of your commercial spaces to Vacant when a Tenant moves out.
 Use the [**map**](https://www.citiesense.com/map "Map") to type in an address or business name, or navigate to the property you need to edit. In the sidebar that shows the property records, find the business record and click on the green edit icon beside the business name. In the form that opens, click the red "Make Vacant" button to change this tenant to a "past tenant" and make the unit into a "Vacancy".
 
 
 ![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-12.gif "Change a tenant to a vacancy.")
+
+
+## Analyzing your data - See [**Areas**](https://www.citiesense.com/docs/pages/04-Areas.md)
+
+When you have all your data imported and all your Pages have been created you can analyze your data for any of your Page type categories using the [**Area**](https://www.citiesense.com/docs/pages/04-Areas.md) features.
