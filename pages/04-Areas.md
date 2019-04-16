@@ -27,7 +27,7 @@ Your new Area will help keep you in-the-know about this part of the city. You're
 
 - Subscribe to datasets like the City's building permits system to track development activity for properties in your Area.  
 - Instantly perform complex spatial analysis of data from a range of public sources, such as US Census data on demographics and municipal data on the individual tax lots in the Area. 
-- Add and analyze your own data about properties in the Area by creating [Pages](https://www.citiesense.com/docs/pages/05-Pages.md) in your Citiesense Account. 
+- Add and analyze your own data about properties in the Area by creating [Pages](https://www.citiesense.com/docs/pages/03-Pages.md) in your Citiesense Account. 
 
 If you're ready to get started, [click here to sign up or sign in and add an Area](https://www.citiesense.com/sign_in). 
 
