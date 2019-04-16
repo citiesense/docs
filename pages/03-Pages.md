@@ -1,6 +1,6 @@
 ## What are Pages?
 
-Use [**Pages**](https://www.citiesense.com/projects/3287 "example of a Page") to manage, track and share the status of different neighborhood assets in an [**area**](https://www.citiesense.com/docs/pages/02-Areas.md).
+Use [**Pages**](https://www.citiesense.com/projects/3287 "example of a Page") to manage, track and share the status of different neighborhood assets in an [**area**](https://www.citiesense.com/docs/pages/04-Areas.md).
 Pages share user-created records about a property or a street condition. Users can create Pages to share their local insight about any property or streetscape in the city. 
 Here are some examples of Pages:
 - Showcase **Local Businesses and Attractions** and provide an accurate understanding of the existing mix of retailers. 
@@ -32,7 +32,7 @@ Once you have all your data about the property or streetscape asset, and any pho
 ## Updating your data for *Properties* and *Streetscapes* is quick and easy too.
 
 ### Example - Change one of your commercial spaces to Vacant when a Tenant moves out.
-Use the [**map**](https://www.citiesense.com/cities/new-york-city "City Map") to type in an address or business name, or navigate to the property you need to edit. In the sidebar that shows the property records, find the business record and click on the green edit icon beside the business name. In the form that opens, click the red "Make Vacant" button to change this tenant to a "past tenant" and make the unit into a "Vacancy".
+Use the [**map**](https://www.citiesense.com/map "Map") to type in an address or business name, or navigate to the property you need to edit. In the sidebar that shows the property records, find the business record and click on the green edit icon beside the business name. In the form that opens, click the red "Make Vacant" button to change this tenant to a "past tenant" and make the unit into a "Vacancy".
 
 
 ![alt text](https://s1.gifyu.com/images/ezgif.com-video-to-gif-12.gif "Change a tenant to a vacancy.")
