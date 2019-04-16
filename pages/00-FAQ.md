@@ -25,9 +25,9 @@ ______
 
 ## [**Tables**](https://www.citiesense.com/docs/pages/05-Tables.md "Tables")
 ______
-### What is a Dashboard, and how do I create one for one of my Areas?
+### How do I set up Alerts about things changing in one for one of my Areas?
 
-## [**Dashboards**](https://www.citiesense.com/docs/pages/06-Dashboards.md "Dashboards")
+## [**Alerts**](https://www.citiesense.com/docs/pages/05-Alerts.md "Dashboards")
 ______
 ### Where does data about a city in the platform come from? 
 
