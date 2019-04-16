@@ -7,7 +7,7 @@ ______
 ______
 ### I'm looking for information about my city. How do I look up available data and information about places using this platform?
 
-## [**Location Details**](https://www.citiesense.com/docs/pages/02-Location_Details.md "Location Details")
+## [**Location Details**](https://www.citiesense.com/docs/pages/02-Location%20Details.md "Location Details")
 ______
 ### I have my own information about specific locations that I would like to add to the map and manage in my account. How do I add data about a location? 
 
