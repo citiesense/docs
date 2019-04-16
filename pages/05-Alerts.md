@@ -14,7 +14,7 @@ Once you have saved an [**Area**](https://www.citiesense.com/docs/pages/04-Areas
 **What does a daily email alert look like? Here's an example:**
 
 
-< img src="https://farm5.staticflickr.com/4638/25144585038_379c045ca2_k.jpg" class="img-responsive"/>
+<img src="https://farm5.staticflickr.com/4638/25144585038_379c045ca2_k.jpg" class="img-responsive"/>
 
 
 
