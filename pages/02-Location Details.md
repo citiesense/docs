@@ -2,6 +2,8 @@
 
 Look up any available dataset for a specific location, whether a private property, street or other public space.
 
+<img src="https://github.com/citiesense/docs/blob/master/images/data-library.gif?raw=true" class="img responsive"/>
+
 Sign in to your Citiesense account to start exploring the Data Library. It's now easier than ever to look up specific datasets and interact with data on the map, whether recent transactions for real estate or the proximity of wifi hotspots. 
 
 
@@ -13,7 +15,7 @@ Instantly look up Mortgages and Deed Transfers for any property.
 
 
 **Quality of Life Indicators**
-Look up recently filed 311 Reports in your neighborhood. Use the [Alerts](https://www.citiesense.com/docs/pages/05-Alerts.md) feature to receive email reports when 311 complaints are filed in your neighborhood, and to understand which types of complaints are the most common. 
+Look up *Recent 311 Reports* in your neighborhood. Use the [Alerts](https://www.citiesense.com/docs/pages/05-Alerts.md) feature to receive email reports when 311 complaints are filed in your neighborhood, and to understand which types of complaints are the most common. 
 
 
 **Track Development & Investment**
