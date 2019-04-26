@@ -6,6 +6,13 @@ Look up any available dataset for a specific location, whether a private propert
 
 Sign in to your Citiesense account to start exploring the Data Library. It's now easier than ever to look up specific datasets and interact with data on the map, whether recent transactions for real estate or the proximity of wifi hotspots. 
 
+### To Lookup Datasets:
+
+Click anywhere on the map or search for a specific address and the Location Details sidebar on the left will open. Then you can start typing the name of a data source and click on the available options in the list below.
+
+
+<img src="https://github.com/citiesense/docs/blob/master/images/Lookup%20datasets.png?raw=true" class="img-fluid"/>
+
 
 Here are a few examples:
 
