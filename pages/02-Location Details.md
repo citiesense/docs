@@ -2,7 +2,7 @@
 
 Look up any available dataset for a specific location, whether a private property, street or other public space.
 
-<img src="https://github.com/citiesense/docs/blob/master/images/data-library.gif?raw=true" class="img-responsive"/>
+<img src="https://github.com/citiesense/docs/blob/master/images/data-library.gif?raw=true" class="img-fluid"/>
 
 Sign in to your Citiesense account to start exploring the Data Library. It's now easier than ever to look up specific datasets and interact with data on the map, whether recent transactions for real estate or the proximity of wifi hotspots. 
 
