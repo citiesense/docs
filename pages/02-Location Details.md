@@ -14,7 +14,10 @@ Click anywhere on the map or search for a specific address and the Location Deta
 <img src="https://github.com/citiesense/docs/blob/master/images/Lookup%20datasets.png?raw=true" class="img-fluid"/>
 
 
-Here are a few examples:
+
+_______________________
+
+**Here are a few examples of ways to use the Location Details and available data in your account:**
 
 
 <img src="https://github.com/citiesense/docs/blob/master/images/realestate-market.png?raw=true" width="50"/>
