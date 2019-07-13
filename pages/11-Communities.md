@@ -26,6 +26,8 @@ Gateway JFK - http://www.jfkibid.org/
 
 Grand Central Partnership - http://www.grandcentralpartnership.nyc/
 
+Grand Street BID - https://grandstreetbk.org/
+
 Hudson Square BID - http://www.hudsonsquarebid.org/
 
 Kalamazoo Downtown Partnership - https://www.downtownkalamazoo.org/
