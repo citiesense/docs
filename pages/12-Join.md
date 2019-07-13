@@ -5,5 +5,4 @@ __________
 
 **AVAILABLE POSITIONS:**
 
-#### We do not currently have any positions available, but we would love to hear from you if you would like to work together. 
-
+#### Please email us if you're interested in working together. We will be posting job openings later this year. 
