@@ -46,6 +46,8 @@ Park Slope Fifth Avenue BID - https://parkslopefifthavenuebid.com/
 
 Pitkin Avenue BID - http://pitkinavenue.nyc/
 
+Seaport TMA - http://seaporttma.org/
+
 7th Avenue South Alliance - http://www.7asa.org/
 
 Staten Island Chamber of Commerce - https://sichamber.com/
