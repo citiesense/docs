@@ -5,4 +5,4 @@ __________
 
 **AVAILABLE POSITIONS:**
 
-#### Please email us if you're interested in working together. We will be posting job openings later this year. [jobs@citiesense.com] (mailto:jobs@citiesense.com)
+#### Please email us if you're interested in working together. We will be posting job openings later this year. [jobs@citiesense.com](mailto:jobs@citiesense.com)
