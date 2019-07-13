@@ -36,6 +36,8 @@ Long Island City Partnership - https://longislandcityqueens.com/
 
 Montague Street BID - http://montaguebid.com/
 
+Moore Street Alliance - https://www.sustainableunitedneighborhoods.org/
+
 Myrtle Avenue Brooklyn Partnership - http://myrtleavenue.org/
 
 Noho BID - http://noho.bid/
