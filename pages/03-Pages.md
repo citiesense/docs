@@ -1,14 +1,17 @@
 ## What are Pages?
 
-Use Pages to manage, track and share the status of different neighborhood assets in your community. 
+![alt text](https://github.com/citiesense/docs/blob/master/images/Schedule%20a%20demo%20IMAGE.png?raw=true "Pages help you manage and share of all your local information.")
+
+Use Pages to keep your community moving around local data. Pages help you manage, track and share the status of different neighborhood assets, events, issues, and programs in your community. 
 
 **Citiesense automatically generates a unique URL and associate webpage, or "Page" for every record you add to your account.** This is an important feature of the platform. Whether you and your team are using the account to inventory *tree pits* along a main street or to track commercial space and the different *Businesses & Attractions* occupying storefronts, Pages will help you centralize the information about these assets and share the information with your community. 
 
 Here are some examples of different types of Pages:
-- Showcase **Local Businesses and Attractions** and provide an accurate understanding of the existing mix of retailers. 
+- Showcase **Local Businesses and Attractions** and provide an accurate understanding of the existing mix of retail businesses. 
 - Share and track the status of [**Development Activity**](https://www.citiesense.com/projects/3287 "Example of a Page for Development Activity").
 - Promote **Listings for available commercial space** for retail, office, industrial and other tenants that might move to a neighborhood.
 - Track **Streetscape Assets** to keep records of where there are issues with things like **Tree Pits**, **Waste Bins**, **Benches**, and **Lamp Posts**.
+- Resolve **Issues** quickly so that your neighborhood is kept clean, safe and accessible.
 
 
 ## Adding your data about a specific location and creating a new Page is easy.
