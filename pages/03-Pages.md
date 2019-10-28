@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/citiesense/docs/blob/master/images/Schedule%20a%20demo%20IMAGE.png?raw=true "Pages help you manage and share of all your local information.")
 
-Use Pages to keep your community moving around local data. Pages help you manage, track and share the status of different neighborhood assets, events, issues, and programs in your community. 
+Use Pages to make your local data instantly accessible and informative. Pages help you manage, track and share the status of different neighborhood assets, events, issues, and programs in your community. 
 
 **Citiesense automatically generates a unique URL and associate webpage, or "Page" for every record you add to your account.** This is an important feature of the platform. Whether you and your team are using the account to inventory *tree pits* along a main street or to track commercial space and the different *Businesses & Attractions* occupying storefronts, Pages will help you centralize the information about these assets and share the information with your community. 
 
