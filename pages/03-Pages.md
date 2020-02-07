@@ -31,7 +31,7 @@ Use the form to enter information about the property or streetscape location. Fo
 ![alt text](https://github.com/citiesense/docs/blob/master/images/add%20waste%20basket%202.gif?raw=true "Fill out the form to add your local data.")
 
 ### Step 3 - Create the new record.
-Once you have all your data about the property or streetscape asset, and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. You will need to refresh the page or select another property in order for this new record to show up as part of this property you just add the information to on the sidebar.
+Once you have all your data about the property or streetscape asset, and any photos added to the form, go ahead and click on the blue **Create** button at the bottom. That's it! You've added your record to that location where it's easy for you and your community to access and edit in the future.
 
 ![alt text](https://github.com/citiesense/docs/blob/master/images/add%20waste%20basket%203.gif?raw=true "Save and confirm your new record.")
 
