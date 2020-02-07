@@ -26,7 +26,7 @@ Click on the blue "New Record" in the sidebar to open the edit modal and select 
 ![alt text](https://github.com/citiesense/docs/blob/master/images/add%20waste%20basket%201.gif?raw=true "Find the location you want to add a record to and click the "New Record" button.")
 
 ### Step 2 - Add information using the forms.
-Use the form to enter information about the property or streetscape location. For example, you might add the name of a business and a photo of the new storefront, or you might show the asking rent for a commercial space if you keep track of available listings for vacant storefronts. Or you might add a Tree Pit to show that there is an operational streetscape asset serving its role providing shade on hot sunny days and storm water management during wet and rainy days.
+Use the form to enter information about the property or streetscape location. For example, you might add the name of a business and a photo of the new storefront, or you might show the asking rent for a commercial space if you keep track of available listings for vacant storefronts. Or you might add a Tree Pit to show that there is an operational streetscape asset serving its role providing shade on hot sunny days and storm water management during wet and rainy days, or maybe to locate a useful waste basket that occassionally gets moved during busy parades and events. 
 
 ![alt text](https://github.com/citiesense/docs/blob/master/images/add%20waste%20basket%202.gif?raw=true "Fill out the form to add your local data.")
 
