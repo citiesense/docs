@@ -4,9 +4,7 @@ Citiesense makes it simple and fast to access and organize information about spe
 *__It's completely FREE to add an Area to your account, so let's get started.__*
  
  
-![alt text](https://github.com/citiesense/docs/blob/master/images/add%20waste%20basket%203.gif?raw=true "Save and confirm your new record.")
-
-![alt text](https://github.com/citiesense/docs/blob/master/images/ezgif.com-video-to-gif%20(11).gif?raw=true "Add your first Area")
+![alt text](https://github.com/citiesense/docs/blob/master/images/add_area.gif?raw=true "Add your first Area")
 
 
 ### Add your first Area
