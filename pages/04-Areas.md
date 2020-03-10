@@ -63,9 +63,12 @@ Click Done when you're happy with you changes to save and update your Area's sha
  
 Your new Area will help keep you in-the-know about this part of the city. You're now able to:
 
-- Subscribe to datasets like the City's building permits system to track development activity for properties in your Area.  
+- Share Maps to showcase local conditions in your new Area.
+![alt text](https://github.com/citiesense/docs/blob/master/images/New%20Area%20-%20Share%20Maps.png?raw=true "Share Maps.")
+- Subscribe to datasets like the City's building permits system to track development activity for properties in your Area. _(Note: Alerts are not available for all cities. Don't see Alerts for your city? Please email info@citiesense.com to request an Alert be setup for your city.)_  
+![alt text](https://github.com/citiesense/docs/blob/master/images/New%20Area%20-%20Alerts.png?raw=true "Alerts.")
 - Instantly perform complex spatial analysis of data from a range of public sources, such as US Census data on demographics and municipal data on the individual tax lots in the Area. 
-- Add and analyze your own data about properties in the Area by creating [Pages](https://www.citiesense.com/docs/pages/03-Pages.md) in your Citiesense Account. 
+- Add and analyze your own data about local conditions of properties and street conditions in the Area by creating [Pages](https://www.citiesense.com/docs/pages/03-Pages.md) in your Citiesense Account. 
 
 If you're ready to get started, [click here to sign up or sign in and add an Area](https://www.citiesense.com/sign_in). 
 
