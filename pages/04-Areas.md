@@ -31,11 +31,3 @@ Your new Area will help keep you in-the-know about this part of the city. You're
 
 If you're ready to get started, [click here to sign up or sign in and add an Area](https://www.citiesense.com/sign_in). 
 
-
-***Example of the Area tool being used to test different district assessment techniques for the Grand Street Business Improvement District***
-
-
-<img src="https://github.com/citiesense/docs/blob/master/images/grand_st_assessment.gif?raw=true" width="550" />
-
-
-
