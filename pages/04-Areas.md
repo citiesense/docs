@@ -14,14 +14,52 @@ Citiesense makes it simple and fast to access and organize information about spe
 
 __Step 1__
 Click the blue __"New Area"__ button in the upper right hand corner of the map. 
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%201%20-%20New%20Area.jpg?raw=true "New Area")
 
 
 __Step 2__
 Click your cursor anywhere on the map to begin creating a shape around your preferred Area. If you make a mistake, don't worry. You will have the opportunity to edit this shape in Step 3. _(Note: Clicking rather than holding down the cursor and dragging.)_
+
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%202%20-%20New%20Area.jpg?raw=true "click, don't drag")
  
  
- __Step 3__
- Click the blue __"Done"__ button to either __"Edit"__ your shape and change the Area boundary you've created, or click __"Save"__ to add the Area to your account. 
+__Step 3__
+Click the blue __"Done"__ button when you are finished creating a shape you're happy with. _(Note: You Can always "Edit" the shape later.)_ 
+ 
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%203%20-%20New%20Area.jpg?raw=true "Done button")
+
+__Step 4__
+Click __"Save"__ to save the Area to your account. You'll need to name it before you can finalize the Save process.  
+
+
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%204%20-%20New%20Area.jpg?raw=true "Save Process")
+
+
+
+### Edit your Area
+You can always edit your Area's name, shape, and color. 
+
+__Step 1__
+To __"Edit"__ your shape and change the Area boundary you've created, click the "Edit" option in the Area tools.  
+
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%200%20-%20Edit%20Area.jpg?raw=true "Open the Editor")
+
+__Step 2__
+The dialog box will enable you to make changes to Area name, color and shape. Click Edit in this box to make changes to the shape.
+
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%201%20-%20Edit%20Area.png?raw=true "Edit the Shape")
+
+__Step 3__
+When you click Edit, the shape's corners will become movable with white boxes. Drag the boxes to where you'd like them to be. Double click the boxes to remove a corner, and to add a corner click on the translucent boxes between the corners and drag them to where you want that corner to be. 
+
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%202%20-%20Edit%20Area.png?raw=true "Use the white boxes to edit the shape.")
+
+__Step 4__
+Click Done when you're happy with you changes to save and update your Area's shape.
+
+![alt text](https://github.com/citiesense/docs/blob/master/images/step%203%20-%20Edit%20Area.png?raw=true "Click Done to update your shape.")
+
+
  
 Your new Area will help keep you in-the-know about this part of the city. You're now able to:
 
