@@ -6,7 +6,7 @@ Citiesense makes it simple and fast to access and organize information about spe
  
 
 
-![alt text](https://github.com/citiesense/docs/blob/master/images/create_new_area.gif?raw=true "Add your first Area")
+![alt text](https://github.com/citiesense/docs/blob/master/images/ezgif.com-video-to-gif%20(11).gif?raw=true "Add your first Area")
 
 
 ### Add your first Area
@@ -21,7 +21,7 @@ Click your cursor anywhere on the map to begin creating a shape around your pref
  
  
  __Step 3__
- Click the blue __"Done"__ button to either __"Edit"__ your shape and change the Area boundary, or click __"Save"__ to add the Area to your account. You will also receive an email confirming that you are subscribed to receive alerts about building permits for the Area you saved.
+ Click the blue __"Done"__ button to either __"Edit"__ your shape and change the Area boundary you've created, or click __"Save"__ to add the Area to your account. 
  
 Your new Area will help keep you in-the-know about this part of the city. You're now able to:
 
