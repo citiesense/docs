@@ -21,7 +21,7 @@ Use the [**map**](https://www.citiesense.com/map "Map") to navigate to the locat
 
 A blue pin will mark that location you selected and the Location Details sidebar will open. *(On mobile devices, you may need to click the Location Details icon in the blue toolbar to open this sidebar.)*
 
-Click on the blue "New Record" in the sidebar to open the edit modal and select the type of data you are adding, i.e. a business, a listing for a vacant space, development activity, streetscape assets, etc. 
+Click on the blue "New Record" button at the top left in the sidebar to open the New Record modal and select the type of record you are adding, i.e. a business, a listing for a vacant space, development activity, streetscape assets, etc. 
 
 ![alt text](https://github.com/citiesense/docs/blob/master/images/add%20waste%20basket%201.gif?raw=true "Find the location you want to add a record to and click the "New Record" button.")
 
