@@ -1,6 +1,6 @@
 ## Public Data Library
 
-Look up any available dataset for a specific location, whether a private property, street or other public space.
+Look up any available dataset for locations, including real estate, public spaces, and administrtive bounderies.
 
 <img src="https://github.com/citiesense/docs/blob/master/images/data-library.gif?raw=true" class="img-fluid"/>
 
