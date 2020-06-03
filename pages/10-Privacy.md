@@ -110,5 +110,5 @@ By phone: (323) 577-8890
 
 By email: CustomerService@citiesense.com
 
-Date of Last Revision: April 12th, 2019
+Date of Last Revision: June 3rd, 2020
 
