@@ -35,7 +35,7 @@ When you use any social sharing function we may provide to share our products an
 
 #### User-Generated Content:
 
-If you use our user-generated content services, such as publishing information using a Page (https://www.citiesense.com/docs/pages/05-Pages.md) with information about a property or streetscape activity and sharing it publicly, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit on these features of the Service.
+If you use our user-generated content services, such as publishing information using a [Page] (https://www.citiesense.com/docs/pages/03-Pages.md) with information about a property or streetscape activity and sharing it publicly, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit on these features of the Service.
  
 We may post user content, including testimonials and reviews, on our website. Some of it may contain personally identifiable information. We always obtain customers' consent via email prior to posting the testimonial to post their names along with their testimonial.
 If you would like to remove any of your own personal information that is being displayed on our website and are unable to, please contact us.
